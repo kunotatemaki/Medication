@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Medication</string>
+    <string name="action_settings">Settings</string>
+    <string name="company">(c) company</string>
+    <string name="header">HELLO</string>
+    <string name="footer">BYE BYE</string>
+    <string name="refresh">Refresh</string>
+</resources>

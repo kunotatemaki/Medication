@@ -1,0 +1,1762 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="medications">
+        <item><![CDATA[Abelcet]]></item>
+        <item><![CDATA[Abidec (with vitamin A, vitamin D, pyridoxine, riboflavin, nicotinamide and ascorbic acid)]]></item>
+        <item><![CDATA[Abidec (with vitamin A, vitamin D, thiamine, riboflavin, nicotinamide and ascorbic acid)]]></item>
+        <item><![CDATA[Abilify]]></item>
+        <item><![CDATA[Abiraterone]]></item>
+        <item><![CDATA[Acamprosate Calcium]]></item>
+        <item><![CDATA[Acarbose]]></item>
+        <item><![CDATA[Accupro]]></item>
+        <item><![CDATA[Acepril]]></item>
+        <item><![CDATA[Acetazolamide]]></item>
+        <item><![CDATA[Acetylcysteine]]></item>
+        <item><![CDATA[Aciclovir]]></item>
+        <item><![CDATA[Acidex (with sodium alginate and calcium carbonate)]]></item>
+        <item><![CDATA[Acnamino MR]]></item>
+        <item><![CDATA[Acnecide]]></item>
+        <item><![CDATA[Acnisal]]></item>
+        <item><![CDATA[Acnocin]]></item>
+        <item><![CDATA[Acnocin]]></item>
+        <item><![CDATA[Acrivastine]]></item>
+        <item><![CDATA[Actifed]]></item>
+        <item><![CDATA[Actonel]]></item>
+        <item><![CDATA[Actos]]></item>
+        <item><![CDATA[Acular]]></item>
+        <item><![CDATA[Acupan]]></item>
+        <item><![CDATA[Adalat]]></item>
+        <item><![CDATA[Adalat la]]></item>
+        <item><![CDATA[Adalat retard]]></item>
+        <item><![CDATA[Adapalene]]></item>
+        <item><![CDATA[Adartel]]></item>
+        <item><![CDATA[Adcirca]]></item>
+        <item><![CDATA[Adcortyl]]></item>
+        <item><![CDATA[Adipine mr]]></item>
+        <item><![CDATA[Adipine xl]]></item>
+        <item><![CDATA[Adizem sr]]></item>
+        <item><![CDATA[adizem xl]]></item>
+        <item><![CDATA[Adoport]]></item>
+        <item><![CDATA[Adrenaline]]></item>
+        <item><![CDATA[Adrenaline (epinephrine)]]></item>
+        <item><![CDATA[Advagraf]]></item>
+        <item><![CDATA[Airomir]]></item>
+        <item><![CDATA[Aknemin]]></item>
+        <item><![CDATA[Aknemycin Plus (with erythromycin)]]></item>
+        <item><![CDATA[Aldactide (co-flumactone (spironolactone and hydroflumethiazide))]]></item>
+        <item><![CDATA[Aldactone]]></item>
+        <item><![CDATA[Aldara]]></item>
+        <item><![CDATA[Aldomet]]></item>
+        <item><![CDATA[Alendronic Acid]]></item>
+        <item><![CDATA[Alfacalcidol]]></item>
+        <item><![CDATA[Alfuzosin]]></item>
+        <item><![CDATA[Alimemazine]]></item>
+        <item><![CDATA[Alka-Seltzer Original (combination with sodium hydrogen carbonate, citric acid)]]></item>
+        <item><![CDATA[Alka-Seltzer XS (combination with paracetamol, citric acid, caffeine and sodium hydrogen carbonate)]]></item>
+        <item><![CDATA[Alker-Seltzer (with aspirin and citric acid)]]></item>
+        <item><![CDATA[Allegron]]></item>
+        <item><![CDATA[ALLERcalm]]></item>
+        <item><![CDATA[Allerief]]></item>
+        <item><![CDATA[alli]]></item>
+        <item><![CDATA[Allopurinol]]></item>
+        <item><![CDATA[Almogran]]></item>
+        <item><![CDATA[Almotriptan]]></item>
+        <item><![CDATA[Alphagan]]></item>
+        <item><![CDATA[Alprostadil]]></item>
+        <item><![CDATA[Altacite plus]]></item>
+        <item><![CDATA[Aluminium Chloride Hexahydrate]]></item>
+        <item><![CDATA[Alupent]]></item>
+        <item><![CDATA[Alvedon]]></item>
+        <item><![CDATA[Alverine Citrate]]></item>
+        <item><![CDATA[Alvesco]]></item>
+        <item><![CDATA[Amantadine Hydrochloride]]></item>
+        <item><![CDATA[Amaryl]]></item>
+        <item><![CDATA[Ambisome]]></item>
+        <item><![CDATA[Amias]]></item>
+        <item><![CDATA[Amilamont]]></item>
+        <item><![CDATA[Amiloride]]></item>
+        <item><![CDATA[Aminophylline]]></item>
+        <item><![CDATA[Amiodarone]]></item>
+        <item><![CDATA[Amisulpride]]></item>
+        <item><![CDATA[Amitriptyline]]></item>
+        <item><![CDATA[Amix]]></item>
+        <item><![CDATA[Amlodipine]]></item>
+        <item><![CDATA[Amlostin]]></item>
+        <item><![CDATA[Amoram]]></item>
+        <item><![CDATA[Amorolfine]]></item>
+        <item><![CDATA[Amoxicillin]]></item>
+        <item><![CDATA[Amoxident]]></item>
+        <item><![CDATA[Amoxil]]></item>
+        <item><![CDATA[Amphotericin]]></item>
+        <item><![CDATA[Amyben]]></item>
+        <item><![CDATA[Anacal]]></item>
+        <item><![CDATA[Anadin Extra (combination with caffeine and paracetamol)]]></item>
+        <item><![CDATA[Anadin Joint Pain]]></item>
+        <item><![CDATA[Anadin LiquiFast]]></item>
+        <item><![CDATA[Anadin original (combination with caffeine)]]></item>
+        <item><![CDATA[Anadin Paracetamol]]></item>
+        <item><![CDATA[Anadin Ultra]]></item>
+        <item><![CDATA[Anafranil]]></item>
+        <item><![CDATA[Anafranil SR]]></item>
+        <item><![CDATA[Anastrozole]]></item>
+        <item><![CDATA[Anbesol]]></item>
+        <item><![CDATA[Andrews (with citric acid and magnesium sulphate)]]></item>
+        <item><![CDATA[Andrews Plus (with citric acid, paracetamol, potassium bicarbonate, sodium carbonate and ascorbic acid)]]></item>
+        <item><![CDATA[Androcur]]></item>
+        <item><![CDATA[Angeliq (with drospirenone)]]></item>
+        <item><![CDATA[Angitil sr]]></item>
+        <item><![CDATA[Angitil xl]]></item>
+        <item><![CDATA[Anhydrol forte]]></item>
+        <item><![CDATA[Antabuse]]></item>
+        <item><![CDATA[Apresoline]]></item>
+        <item><![CDATA[Aprinox]]></item>
+        <item><![CDATA[Aprovel]]></item>
+        <item><![CDATA[Aquadrate]]></item>
+        <item><![CDATA[Aranesp]]></item>
+        <item><![CDATA[Arava]]></item>
+        <item><![CDATA[Arcoxia]]></item>
+        <item><![CDATA[Aricept]]></item>
+        <item><![CDATA[Aricept Evess]]></item>
+        <item><![CDATA[Aridil in combination with amiloride (co-amilofruse)]]></item>
+        <item><![CDATA[Arimidex]]></item>
+        <item><![CDATA[Aripiprazole]]></item>
+        <item><![CDATA[Arlevert (with dimenhydrinate)]]></item>
+        <item><![CDATA[Aromasin]]></item>
+        <item><![CDATA[Arpicolin]]></item>
+        <item><![CDATA[Artelac]]></item>
+        <item><![CDATA[Artelac SDU]]></item>
+        <item><![CDATA[Asacol]]></item>
+        <item><![CDATA[Asacol MR]]></item>
+        <item><![CDATA[Asasantin Retard (combination with dipyridamole)]]></item>
+        <item><![CDATA[Ascorbic Acid]]></item>
+        <item><![CDATA[Asilone antacid]]></item>
+        <item><![CDATA[Asmanex]]></item>
+        <item><![CDATA[Asmasal Clickhaler]]></item>
+        <item><![CDATA[Aspirin]]></item>
+        <item><![CDATA[Atenolol]]></item>
+        <item><![CDATA[Atimos Modulite]]></item>
+        <item><![CDATA[Atomoxetine]]></item>
+        <item><![CDATA[Atorvastatin]]></item>
+        <item><![CDATA[Atropine Sulphate]]></item>
+        <item><![CDATA[Atrovent]]></item>
+        <item><![CDATA[Augmentin in combination with clavulanic acid (co-amoxiclav)]]></item>
+        <item><![CDATA[Augmentin-Duo in combination with clavulanic acid (co-amoxiclav)]]></item>
+        <item><![CDATA[Aureocort (with tetracycline)]]></item>
+        <item><![CDATA[Avandia]]></item>
+        <item><![CDATA[Avodart]]></item>
+        <item><![CDATA[Axid]]></item>
+        <item><![CDATA[Axsain]]></item>
+        <item><![CDATA[Azathioprine]]></item>
+        <item><![CDATA[Azelaic Acid]]></item>
+        <item><![CDATA[Azelastine]]></item>
+        <item><![CDATA[Azilect]]></item>
+        <item><![CDATA[Azithromycin]]></item>
+        <item><![CDATA[Azopt]]></item>
+        <item><![CDATA[Baclofen]]></item>
+        <item><![CDATA[Bactroban]]></item>
+        <item><![CDATA[Balneum]]></item>
+        <item><![CDATA[Balsalazide]]></item>
+        <item><![CDATA[Baratol]]></item>
+        <item><![CDATA[Baxan]]></item>
+        <item><![CDATA[Bazetham MR]]></item>
+        <item><![CDATA[Bazuka]]></item>
+        <item><![CDATA[Beclazone]]></item>
+        <item><![CDATA[Beclometasone]]></item>
+        <item><![CDATA[Beclometasone Cyclocaps]]></item>
+        <item><![CDATA[Beconase]]></item>
+        <item><![CDATA[Bedol]]></item>
+        <item><![CDATA[Bedranol sr]]></item>
+        <item><![CDATA[Beechams Powders (combination with caffeine)]]></item>
+        <item><![CDATA[Benadryl]]></item>
+        <item><![CDATA[Benadryl]]></item>
+        <item><![CDATA[Benadryl Plus]]></item>
+        <item><![CDATA[Benadryl Plus]]></item>
+        <item><![CDATA[Bendroflumethiazide]]></item>
+        <item><![CDATA[Benerva]]></item>
+        <item><![CDATA[Benylin]]></item>
+        <item><![CDATA[Benylin 4-Flu]]></item>
+        <item><![CDATA[Benylin Day & Night]]></item>
+        <item><![CDATA[Benylin Dry Coughs]]></item>
+        <item><![CDATA[Benzoyl Peroxide]]></item>
+        <item><![CDATA[Benzydamine Hydrochloride]]></item>
+        <item><![CDATA[Berlind]]></item>
+        <item><![CDATA[Besavar XL]]></item>
+        <item><![CDATA[Beta-Adalat with calcium-channel blocker (nifedipine)]]></item>
+        <item><![CDATA[Betacap]]></item>
+        <item><![CDATA[Beta-Cardone]]></item>
+        <item><![CDATA[Betadine]]></item>
+        <item><![CDATA[Betagan]]></item>
+        <item><![CDATA[Betahistine]]></item>
+        <item><![CDATA[Betaloc]]></item>
+        <item><![CDATA[Betaloc SA]]></item>
+        <item><![CDATA[Betamethasone Dipropionate]]></item>
+        <item><![CDATA[Beta-prograne]]></item>
+        <item><![CDATA[Betaxolol Hydrochloride]]></item>
+        <item><![CDATA[Betim]]></item>
+        <item><![CDATA[Betnovate]]></item>
+        <item><![CDATA[Betoptic]]></item>
+        <item><![CDATA[Bettamousse]]></item>
+        <item><![CDATA[Bezafibrate]]></item>
+        <item><![CDATA[Bezalip]]></item>
+        <item><![CDATA[Bezalip Mono]]></item>
+        <item><![CDATA[Bicalutamide]]></item>
+        <item><![CDATA[Bi-carzem sr]]></item>
+        <item><![CDATA[BI-carzem xl]]></item>
+        <item><![CDATA[Bimatoprost]]></item>
+        <item><![CDATA[Biolax]]></item>
+        <item><![CDATA[Biorphen]]></item>
+        <item><![CDATA[Bisacodyl]]></item>
+        <item><![CDATA[Bisodol (calcium carbonate and light magnesium carbonate)]]></item>
+        <item><![CDATA[Bisodol Extra (with alginic acid and magaldrate)]]></item>
+        <item><![CDATA[Bisoprolol]]></item>
+        <item><![CDATA[Bondronat]]></item>
+        <item><![CDATA[Bonefos]]></item>
+        <item><![CDATA[Bonjela]]></item>
+        <item><![CDATA[Bonviva]]></item>
+        <item><![CDATA[Boots Allergy Relief]]></item>
+        <item><![CDATA[Boots Anti-Dandruff]]></item>
+        <item><![CDATA[Boots Athlete’s Foot]]></item>
+        <item><![CDATA[Boots Avert Cold Sore Cream]]></item>
+        <item><![CDATA[Boots Diclofenac Potassium Tablets]]></item>
+        <item><![CDATA[Boots Dry Cough Relief Lozenges]]></item>
+        <item><![CDATA[Boots Hair Loss Treatment]]></item>
+        <item><![CDATA[Boots Hay fever relief]]></item>
+        <item><![CDATA[Boots Ibuprofen]]></item>
+        <item><![CDATA[Boots NicAssist]]></item>
+        <item><![CDATA[Brevoxyl]]></item>
+        <item><![CDATA[Brexidol]]></item>
+        <item><![CDATA[Brimonidine Tartrate]]></item>
+        <item><![CDATA[Brinzolamide]]></item>
+        <item><![CDATA[Brochlor]]></item>
+        <item><![CDATA[Brufen]]></item>
+        <item><![CDATA[Buccastem]]></item>
+        <item><![CDATA[Buccolam]]></item>
+        <item><![CDATA[Budelin]]></item>
+        <item><![CDATA[Budenofalk]]></item>
+        <item><![CDATA[Budesonide]]></item>
+        <item><![CDATA[Bumetanide]]></item>
+        <item><![CDATA[Buprenorphine Hydrochloride]]></item>
+        <item><![CDATA[Bupropion]]></item>
+        <item><![CDATA[Burinex]]></item>
+        <item><![CDATA[Buscopan]]></item>
+        <item><![CDATA[Buscopan IBS relief]]></item>
+        <item><![CDATA[Buspar]]></item>
+        <item><![CDATA[Buspirone Hydrochloride]]></item>
+        <item><![CDATA[Butrans]]></item>
+        <item><![CDATA[Cabaser]]></item>
+        <item><![CDATA[Cabergoline]]></item>
+        <item><![CDATA[Calamine]]></item>
+        <item><![CDATA[Calchan mr]]></item>
+        <item><![CDATA[Calcicard cr]]></item>
+        <item><![CDATA[Calcimax (in combination with various vitamins and minerals)]]></item>
+        <item><![CDATA[Calcimax (with ascorbic acid, calciferol, calcium glycine HCl, calcium pantothenate, cyanobalamin, nicotinamide, riboflavin and pyridoxine)]]></item>
+        <item><![CDATA[Calcimax (with ascorbic acid, calciferol, calcium glycine HCl, calcium pantothenate, cyanobalamin, nicotinamide, riboflavin and thiamine)]]></item>
+        <item><![CDATA[Calcipotriol]]></item>
+        <item><![CDATA[Calcitriol]]></item>
+        <item><![CDATA[Calgel]]></item>
+        <item><![CDATA[Calmurid]]></item>
+        <item><![CDATA[Calpol]]></item>
+        <item><![CDATA[Calprofen]]></item>
+        <item><![CDATA[Camcolit]]></item>
+        <item><![CDATA[Campral EC]]></item>
+        <item><![CDATA[Candesartan]]></item>
+        <item><![CDATA[Canestan Oasis]]></item>
+        <item><![CDATA[Canesten]]></item>
+        <item><![CDATA[Canesten Oral]]></item>
+        <item><![CDATA[Capaxion]]></item>
+        <item><![CDATA[Caplenal]]></item>
+        <item><![CDATA[Capoten]]></item>
+        <item><![CDATA[Caprin]]></item>
+        <item><![CDATA[Capsaicin]]></item>
+        <item><![CDATA[Captopril]]></item>
+        <item><![CDATA[Carace Plus with diuretic (hydrochlorothiazide)]]></item>
+        <item><![CDATA[Carbamazepine]]></item>
+        <item><![CDATA[Carbellon (with magnesium hydroxide)]]></item>
+        <item><![CDATA[Carbex (with simeticone)]]></item>
+        <item><![CDATA[Carbimazole]]></item>
+        <item><![CDATA[Carbocisteine]]></item>
+        <item><![CDATA[Cardene]]></item>
+        <item><![CDATA[Cardene SR]]></item>
+        <item><![CDATA[Cardicor]]></item>
+        <item><![CDATA[Cardioplen XL]]></item>
+        <item><![CDATA[Cardura]]></item>
+        <item><![CDATA[Cardura XL]]></item>
+        <item><![CDATA[Care]]></item>
+        <item><![CDATA[Care]]></item>
+        <item><![CDATA[Carmellose Sodium]]></item>
+        <item><![CDATA[Carteolol Hydrochloride]]></item>
+        <item><![CDATA[Carvedilol]]></item>
+        <item><![CDATA[Casodex]]></item>
+        <item><![CDATA[Catapres]]></item>
+        <item><![CDATA[Caverject]]></item>
+        <item><![CDATA[Cefaclor]]></item>
+        <item><![CDATA[Cefadroxil]]></item>
+        <item><![CDATA[Cefalexin]]></item>
+        <item><![CDATA[Cefradine]]></item>
+        <item><![CDATA[Celebrex]]></item>
+        <item><![CDATA[Celecoxib]]></item>
+        <item><![CDATA[Celectol]]></item>
+        <item><![CDATA[Celevac]]></item>
+        <item><![CDATA[Celiprolol]]></item>
+        <item><![CDATA[Cellcept]]></item>
+        <item><![CDATA[Celluvisc]]></item>
+        <item><![CDATA[Ceporex]]></item>
+        <item><![CDATA[Cepton]]></item>
+        <item><![CDATA[Cerazette]]></item>
+        <item><![CDATA[Cetirizine]]></item>
+        <item><![CDATA[Cetraben]]></item>
+        <item><![CDATA[Champix]]></item>
+        <item><![CDATA[Chloractil]]></item>
+        <item><![CDATA[Chloramphenicol]]></item>
+        <item><![CDATA[Chlordiazepoxide]]></item>
+        <item><![CDATA[Chlorhexidine]]></item>
+        <item><![CDATA[Chloromycetin Redidrops]]></item>
+        <item><![CDATA[Chlorphenamine]]></item>
+        <item><![CDATA[Chlorpromazine]]></item>
+        <item><![CDATA[Chlortalidone]]></item>
+        <item><![CDATA[Choline Salicylate]]></item>
+        <item><![CDATA[Cialis]]></item>
+        <item><![CDATA[Cicafem]]></item>
+        <item><![CDATA[Ciclesonide]]></item>
+        <item><![CDATA[Ciclosporin]]></item>
+        <item><![CDATA[Cidomycin]]></item>
+        <item><![CDATA[Ciloxan]]></item>
+        <item><![CDATA[Cimetidine]]></item>
+        <item><![CDATA[Cinnarizine]]></item>
+        <item><![CDATA[Cipralex]]></item>
+        <item><![CDATA[Cipramil]]></item>
+        <item><![CDATA[Ciprofibrate]]></item>
+        <item><![CDATA[Ciprofloxacin]]></item>
+        <item><![CDATA[Ciproxin]]></item>
+        <item><![CDATA[Circadin]]></item>
+        <item><![CDATA[Citalopram]]></item>
+        <item><![CDATA[Citrafleet in combination with magnesium citrate]]></item>
+        <item><![CDATA[Clairette 2000/35]]></item>
+        <item><![CDATA[Clamelle]]></item>
+        <item><![CDATA[Clarelux]]></item>
+        <item><![CDATA[Clarithromycin]]></item>
+        <item><![CDATA[Clarityn]]></item>
+        <item><![CDATA[Clasteon]]></item>
+        <item><![CDATA[Clenil]]></item>
+        <item><![CDATA[Clenil Modulite]]></item>
+        <item><![CDATA[Clexane]]></item>
+        <item><![CDATA[Climagest (with norethisterone)]]></item>
+        <item><![CDATA[Climaval]]></item>
+        <item><![CDATA[Climesse]]></item>
+        <item><![CDATA[Clindamycin Hydrochloride]]></item>
+        <item><![CDATA[Clinorette]]></item>
+        <item><![CDATA[Clipper]]></item>
+        <item><![CDATA[Clobetasol Propionate]]></item>
+        <item><![CDATA[Clobetasone Butyrate]]></item>
+        <item><![CDATA[Clomethiazole]]></item>
+        <item><![CDATA[Clomid]]></item>
+        <item><![CDATA[Clomifene]]></item>
+        <item><![CDATA[Clomifene Citrate]]></item>
+        <item><![CDATA[Clomipramine]]></item>
+        <item><![CDATA[Clonazepam]]></item>
+        <item><![CDATA[Clonidine]]></item>
+        <item><![CDATA[Clopidogrel]]></item>
+        <item><![CDATA[Clopixol]]></item>
+        <item><![CDATA[Clotrimazole]]></item>
+        <item><![CDATA[Clozapine]]></item>
+        <item><![CDATA[Clozaril]]></item>
+        <item><![CDATA[Co-Amilofruse]]></item>
+        <item><![CDATA[Co-Amilozide]]></item>
+        <item><![CDATA[CoAprovel]]></item>
+        <item><![CDATA[Cobalin-H]]></item>
+        <item><![CDATA[Co-Beneldopa]]></item>
+        <item><![CDATA[Co-Careldopa]]></item>
+        <item><![CDATA[Co-Codamol]]></item>
+        <item><![CDATA[Co-codaprin (combination with codeine phosphate)]]></item>
+        <item><![CDATA[Co-Cyprindiol]]></item>
+        <item><![CDATA[Co-danthrusate Suspension (in combination with Dantron)]]></item>
+        <item><![CDATA[Codarone]]></item>
+        <item><![CDATA[Codeine Phosphate]]></item>
+        <item><![CDATA[Codipar]]></item>
+        <item><![CDATA[Codipar in combination with codeine phosphate (co-codamol)]]></item>
+        <item><![CDATA[Co-Dydramol]]></item>
+        <item><![CDATA[Colazide]]></item>
+        <item><![CDATA[Colchicine]]></item>
+        <item><![CDATA[Colestyramine]]></item>
+        <item><![CDATA[Colofac]]></item>
+        <item><![CDATA[Colofac IBS]]></item>
+        <item><![CDATA[Colofac MR]]></item>
+        <item><![CDATA[Colpermin]]></item>
+        <item><![CDATA[Combivent UDV (in combination with ipratropium bromide)]]></item>
+        <item><![CDATA[Combodart]]></item>
+        <item><![CDATA[Competact (in combination with pioglitazone)]]></item>
+        <item><![CDATA[Compound W]]></item>
+        <item><![CDATA[Comtess]]></item>
+        <item><![CDATA[Concavit (in combination with various vitamins and minerals)]]></item>
+        <item><![CDATA["Concavit (with various vitamins and minerals; composition varies in drops, capsules and syrup)"]]></item>
+        <item><![CDATA["Concavit (with various vitamins and minerals; composition varies in drops, capsules and syrup)"]]></item>
+        <item><![CDATA[Concerta XL]]></item>
+        <item><![CDATA[Conotrane]]></item>
+        <item><![CDATA[Contac]]></item>
+        <item><![CDATA[Contiflo XL]]></item>
+        <item><![CDATA[Coracten sr]]></item>
+        <item><![CDATA[Coracten xl]]></item>
+        <item><![CDATA[Cordilox]]></item>
+        <item><![CDATA[Corlan]]></item>
+        <item><![CDATA[Coro-nitro]]></item>
+        <item><![CDATA[Corsodyl]]></item>
+        <item><![CDATA[Corsodyl daily defence]]></item>
+        <item><![CDATA[Cosuric]]></item>
+        <item><![CDATA[Co-Tenidone]]></item>
+        <item><![CDATA[Co-tenidone with diuretic]]></item>
+        <item><![CDATA[Co-Triamterzide]]></item>
+        <item><![CDATA[Co-Trimoxazole]]></item>
+        <item><![CDATA[Cough Nurse]]></item>
+        <item><![CDATA[Covonia]]></item>
+        <item><![CDATA[Cozaar]]></item>
+        <item><![CDATA[Creon 10000]]></item>
+        <item><![CDATA[Creon 25000]]></item>
+        <item><![CDATA[Creon 40000]]></item>
+        <item><![CDATA[Creon Micro]]></item>
+        <item><![CDATA[Crestor]]></item>
+        <item><![CDATA[Crinone]]></item>
+        <item><![CDATA[Cromolux]]></item>
+        <item><![CDATA[Crotamiton]]></item>
+        <item><![CDATA[Cuprofen]]></item>
+        <item><![CDATA[Curanail]]></item>
+        <item><![CDATA[Cutivate]]></item>
+        <item><![CDATA[Cx powder]]></item>
+        <item><![CDATA[Cyanocobalamin]]></item>
+        <item><![CDATA[Cyclizine]]></item>
+        <item><![CDATA[Cyclopentolate]]></item>
+        <item><![CDATA[Cyclo-progynova]]></item>
+        <item><![CDATA[Cyklokapron]]></item>
+        <item><![CDATA[Cylogest]]></item>
+        <item><![CDATA[Cymalon (in combination with sodium bicarbonate and sodium carbonate)]]></item>
+        <item><![CDATA[Cymbalta]]></item>
+        <item><![CDATA[Cymex]]></item>
+        <item><![CDATA[Cyprostat]]></item>
+        <item><![CDATA[Cyproterone Acetate]]></item>
+        <item><![CDATA[Cystocalm]]></item>
+        <item><![CDATA[Cystrin]]></item>
+        <item><![CDATA[Cytacon]]></item>
+        <item><![CDATA[Cytamen]]></item>
+        <item><![CDATA[Daktarin gold]]></item>
+        <item><![CDATA[Daktarin Intensiv]]></item>
+        <item><![CDATA[Dalacin]]></item>
+        <item><![CDATA[Dalacin C]]></item>
+        <item><![CDATA[Dalacin T]]></item>
+        <item><![CDATA[Dalteparin Sodium]]></item>
+        <item><![CDATA[Dantrium]]></item>
+        <item><![CDATA[Dantrium Intravenous]]></item>
+        <item><![CDATA[Dantrolene]]></item>
+        <item><![CDATA[Darbepoetin Alfa]]></item>
+        <item><![CDATA[Day & Night Nurse]]></item>
+        <item><![CDATA[Day & Night Nurse]]></item>
+        <item><![CDATA[Day Nurse]]></item>
+        <item><![CDATA[Day Nurse]]></item>
+        <item><![CDATA[DDAVP]]></item>
+        <item><![CDATA[Deltacortril]]></item>
+        <item><![CDATA[Deltastab]]></item>
+        <item><![CDATA[Dentinox]]></item>
+        <item><![CDATA[Dentinox]]></item>
+        <item><![CDATA[Dentinox Infant Colic Drops]]></item>
+        <item><![CDATA[Denzapine]]></item>
+        <item><![CDATA[Depakote]]></item>
+        <item><![CDATA[Depefex XL]]></item>
+        <item><![CDATA[Deponit]]></item>
+        <item><![CDATA[Depo-Provera]]></item>
+        <item><![CDATA[Derbac-m]]></item>
+        <item><![CDATA[Dermamist]]></item>
+        <item><![CDATA[Dermatonics Heel Balm]]></item>
+        <item><![CDATA[Dermol]]></item>
+        <item><![CDATA[Dermol 200]]></item>
+        <item><![CDATA[Dermol 500]]></item>
+        <item><![CDATA[Dermovate]]></item>
+        <item><![CDATA[Desloratadine]]></item>
+        <item><![CDATA[DesmoMelt]]></item>
+        <item><![CDATA[Desmopressin]]></item>
+        <item><![CDATA[Desmospray]]></item>
+        <item><![CDATA[Desmotabs]]></item>
+        <item><![CDATA[Desogestrel]]></item>
+        <item><![CDATA[Destolit]]></item>
+        <item><![CDATA[Detrunorm]]></item>
+        <item><![CDATA[Detrunorm XL]]></item>
+        <item><![CDATA[Detrusitol]]></item>
+        <item><![CDATA[Detrusitol XL]]></item>
+        <item><![CDATA[Dexamethasone]]></item>
+        <item><![CDATA[Dexamfetamine]]></item>
+        <item><![CDATA[Dexedrine]]></item>
+        <item><![CDATA[Dexsol]]></item>
+        <item><![CDATA[Dextromethorphan]]></item>
+        <item><![CDATA[DF 118 forte]]></item>
+        <item><![CDATA[DHC-continus]]></item>
+        <item><![CDATA[Dialar]]></item>
+        <item><![CDATA[Diamicron]]></item>
+        <item><![CDATA[Diamorphine Hydrochloride]]></item>
+        <item><![CDATA[Diamox]]></item>
+        <item><![CDATA[Dianette]]></item>
+        <item><![CDATA[Dianette]]></item>
+        <item><![CDATA[Diazemuls]]></item>
+        <item><![CDATA[Diazepam]]></item>
+        <item><![CDATA[Diazepam Rectubes]]></item>
+        <item><![CDATA[Diclofenac Potassium]]></item>
+        <item><![CDATA[Diclofenac Sodium]]></item>
+        <item><![CDATA[Dicloflex]]></item>
+        <item><![CDATA[Dicloflex Retard]]></item>
+        <item><![CDATA[Dicloflex SR]]></item>
+        <item><![CDATA[Diclomax Retard]]></item>
+        <item><![CDATA[Diclomax SR]]></item>
+        <item><![CDATA[Dicycloverine Hydrochloride]]></item>
+        <item><![CDATA[Differin]]></item>
+        <item><![CDATA[Difflam]]></item>
+        <item><![CDATA[Diffundox XL]]></item>
+        <item><![CDATA[Diflucan]]></item>
+        <item><![CDATA[Digoxin]]></item>
+        <item><![CDATA[Dihydrocodeine]]></item>
+        <item><![CDATA[Dihydrocodeine (In The Form Of Dihydrocodeine Tartrate)]]></item>
+        <item><![CDATA[Diltiazem]]></item>
+        <item><![CDATA[Dilzem sr]]></item>
+        <item><![CDATA[Dilzem xl]]></item>
+        <item><![CDATA[Dimeticone]]></item>
+        <item><![CDATA[Diocalm Ultra]]></item>
+        <item><![CDATA[Dioctyl]]></item>
+        <item><![CDATA[Dioderm]]></item>
+        <item><![CDATA[Dioralyte (in combination with rice powder, sodium chloride and potassium chloride)]]></item>
+        <item><![CDATA[Diovan]]></item>
+        <item><![CDATA[Diprobase]]></item>
+        <item><![CDATA[Diprosone]]></item>
+        <item><![CDATA[Dipyridamole]]></item>
+        <item><![CDATA[Disipal]]></item>
+        <item><![CDATA[Disprol]]></item>
+        <item><![CDATA[Distaclor]]></item>
+        <item><![CDATA[Distaclor]]></item>
+        <item><![CDATA[Distaclor MR]]></item>
+        <item><![CDATA[Disulfiram]]></item>
+        <item><![CDATA[Ditropan]]></item>
+        <item><![CDATA[Dixarit]]></item>
+        <item><![CDATA[Docusate Sodium]]></item>
+        <item><![CDATA[Docusol]]></item>
+        <item><![CDATA[Do-Do]]></item>
+        <item><![CDATA[Dolmatil]]></item>
+        <item><![CDATA[Domperidone]]></item>
+        <item><![CDATA[Donepezil Hydrochloride]]></item>
+        <item><![CDATA[Doralese]]></item>
+        <item><![CDATA[Dorzolamide Hydrochloride]]></item>
+        <item><![CDATA[Dostinex]]></item>
+        <item><![CDATA[Dosulepin]]></item>
+        <item><![CDATA[Dovonex]]></item>
+        <item><![CDATA[Doxadura]]></item>
+        <item><![CDATA[Doxadura XL]]></item>
+        <item><![CDATA[Doxazosin]]></item>
+        <item><![CDATA[Doxepin]]></item>
+        <item><![CDATA[Doxycycline]]></item>
+        <item><![CDATA[Doxylar]]></item>
+        <item><![CDATA[Dozic]]></item>
+        <item><![CDATA[Driclor]]></item>
+        <item><![CDATA[Dromadol SR]]></item>
+        <item><![CDATA[Duac]]></item>
+        <item><![CDATA[Duac (with benzoyl peroxide)]]></item>
+        <item><![CDATA[Dulcoease]]></item>
+        <item><![CDATA[Dulcolax]]></item>
+        <item><![CDATA[Dulcolax Perles]]></item>
+        <item><![CDATA[Duloxetine]]></item>
+        <item><![CDATA[Duodopa]]></item>
+        <item><![CDATA[DuoTrav (with timolol maleate)]]></item>
+        <item><![CDATA[Duphalac]]></item>
+        <item><![CDATA[Dutasteride]]></item>
+        <item><![CDATA[Dyazide]]></item>
+        <item><![CDATA[Dyloject]]></item>
+        <item><![CDATA[E45]]></item>
+        <item><![CDATA[E45 Itch Relief Cream]]></item>
+        <item><![CDATA[Easyhaler Beclometasone Dipropionate]]></item>
+        <item><![CDATA[Easyhaler Salbutamol]]></item>
+        <item><![CDATA[Ebixa]]></item>
+        <item><![CDATA[Eccoxolac]]></item>
+        <item><![CDATA[Econac]]></item>
+        <item><![CDATA[Edronax]]></item>
+        <item><![CDATA[Efcortelan]]></item>
+        <item><![CDATA[Efcortesol]]></item>
+        <item><![CDATA[Efexor XL]]></item>
+        <item><![CDATA[Effico (with nicotinamide, caffeine and gentian infusion)]]></item>
+        <item><![CDATA[Eflornithine]]></item>
+        <item><![CDATA[Efracea]]></item>
+        <item><![CDATA[Efudix]]></item>
+        <item><![CDATA[Eldepryl]]></item>
+        <item><![CDATA[Electrolade (with dextrose, potassium chloride and sodium chloride)]]></item>
+        <item><![CDATA[ellaOne]]></item>
+        <item><![CDATA[Elleste Duet]]></item>
+        <item><![CDATA[Elleste Duet Conti]]></item>
+        <item><![CDATA[Elleste Solo]]></item>
+        <item><![CDATA[Elleste Solo MX]]></item>
+        <item><![CDATA[Elocon]]></item>
+        <item><![CDATA[Eltroxin]]></item>
+        <item><![CDATA[Eludril]]></item>
+        <item><![CDATA[Emcor]]></item>
+        <item><![CDATA[Emerade]]></item>
+        <item><![CDATA[EMLA]]></item>
+        <item><![CDATA[Emulsifying Ointment]]></item>
+        <item><![CDATA[Enalapril]]></item>
+        <item><![CDATA[Enos (with citric acid and sodium bicarbonate)]]></item>
+        <item><![CDATA[Enoxaparin Sodium]]></item>
+        <item><![CDATA[Entacapone]]></item>
+        <item><![CDATA[Entocort]]></item>
+        <item><![CDATA[Entrocalm heartburn and indigestion relief (with calcium carbonate and sodium alginate)]]></item>
+        <item><![CDATA[Entrolax]]></item>
+        <item><![CDATA[Epanutin]]></item>
+        <item><![CDATA[Ephedrine Hydrochloride]]></item>
+        <item><![CDATA[Epilim]]></item>
+        <item><![CDATA[EpiPen]]></item>
+        <item><![CDATA[EpiPen Jr]]></item>
+        <item><![CDATA[Episenta]]></item>
+        <item><![CDATA[Eplerenone]]></item>
+        <item><![CDATA[Eprosartan]]></item>
+        <item><![CDATA[Eptadone]]></item>
+        <item><![CDATA[Equasym XL]]></item>
+        <item><![CDATA[Eryacne]]></item>
+        <item><![CDATA[Erymax]]></item>
+        <item><![CDATA[Erythrocin]]></item>
+        <item><![CDATA[Erythromycin]]></item>
+        <item><![CDATA[Erythroped]]></item>
+        <item><![CDATA[Escitalopram]]></item>
+        <item><![CDATA[Esmya]]></item>
+        <item><![CDATA[Estracombi TTS]]></item>
+        <item><![CDATA[Estraderm MX]]></item>
+        <item><![CDATA[Estraderm TTS]]></item>
+        <item><![CDATA[Estradiol]]></item>
+        <item><![CDATA[Estradot TTS]]></item>
+        <item><![CDATA[Estring]]></item>
+        <item><![CDATA[Estriol]]></item>
+        <item><![CDATA[Ethibide XL]]></item>
+        <item><![CDATA[Etodolac]]></item>
+        <item><![CDATA[Etonogestrel]]></item>
+        <item><![CDATA[Etopan XL]]></item>
+        <item><![CDATA[Etoricoxib]]></item>
+        <item><![CDATA[Etrivex]]></item>
+        <item><![CDATA[Etynodiol Diacetate]]></item>
+        <item><![CDATA[Eucardic]]></item>
+        <item><![CDATA[Eucerin Intensive]]></item>
+        <item><![CDATA[Eucreas (in combination with vildagliptin)]]></item>
+        <item><![CDATA[Euglucon]]></item>
+        <item><![CDATA[Eumovate]]></item>
+        <item><![CDATA[Eurax]]></item>
+        <item><![CDATA[Evista]]></item>
+        <item><![CDATA[Evorel]]></item>
+        <item><![CDATA[Evorel Conti]]></item>
+        <item><![CDATA[Evorel Sequi]]></item>
+        <item><![CDATA[Evotrox]]></item>
+        <item><![CDATA[Evra]]></item>
+        <item><![CDATA[Exelon]]></item>
+        <item><![CDATA[Exemestane]]></item>
+        <item><![CDATA[Exocin]]></item>
+        <item><![CDATA[Ezetimibe]]></item>
+        <item><![CDATA[Ezetrol]]></item>
+        <item><![CDATA[Feldene]]></item>
+        <item><![CDATA[Feldene Melt]]></item>
+        <item><![CDATA[Felodipine]]></item>
+        <item><![CDATA[Felotens XL]]></item>
+        <item><![CDATA[Femara]]></item>
+        <item><![CDATA[Feminax]]></item>
+        <item><![CDATA[Feminax in combination with codeine phosphate (co-codamol)]]></item>
+        <item><![CDATA[Feminax Ultra]]></item>
+        <item><![CDATA[Femoston]]></item>
+        <item><![CDATA[Femoston Conti]]></item>
+        <item><![CDATA[Femseven]]></item>
+        <item><![CDATA[Femseven Conti]]></item>
+        <item><![CDATA[Femseven Sequi]]></item>
+        <item><![CDATA[Femulen]]></item>
+        <item><![CDATA[Fenactol]]></item>
+        <item><![CDATA[Fenactol Retard]]></item>
+        <item><![CDATA[Fenbid]]></item>
+        <item><![CDATA[Feprapax]]></item>
+        <item><![CDATA[Ferrograd]]></item>
+        <item><![CDATA[Ferrous Fumarate]]></item>
+        <item><![CDATA[Ferrous Gluconate]]></item>
+        <item><![CDATA[Ferrous Sulphate]]></item>
+        <item><![CDATA[Fersaday]]></item>
+        <item><![CDATA[Fersamal]]></item>
+        <item><![CDATA[Fexofenadine]]></item>
+        <item><![CDATA[Fibrazate (Bezatard) XL]]></item>
+        <item><![CDATA[Filnarine SR]]></item>
+        <item><![CDATA[Finacea]]></item>
+        <item><![CDATA[Finasteride]]></item>
+        <item><![CDATA[Flagyl]]></item>
+        <item><![CDATA[Flamazine]]></item>
+        <item><![CDATA[Flavoxate]]></item>
+        <item><![CDATA[Flecainide Acetate]]></item>
+        <item><![CDATA[Flexitol]]></item>
+        <item><![CDATA[Flixonase]]></item>
+        <item><![CDATA[Flixonase Nasule]]></item>
+        <item><![CDATA[Flixotide Accuhaler]]></item>
+        <item><![CDATA[Flixotide Evohaler]]></item>
+        <item><![CDATA[Flomax Relief MR]]></item>
+        <item><![CDATA[Florinef]]></item>
+        <item><![CDATA[Floxapen]]></item>
+        <item><![CDATA[Fluclomix]]></item>
+        <item><![CDATA[Flucloxacillin]]></item>
+        <item><![CDATA[Fluconazole]]></item>
+        <item><![CDATA[Fludrocortisone]]></item>
+        <item><![CDATA[Fludroxycortide]]></item>
+        <item><![CDATA[Flunisolide]]></item>
+        <item><![CDATA[Fluocinolone Acetonide]]></item>
+        <item><![CDATA[Fluorouracil]]></item>
+        <item><![CDATA[Fluoxetine]]></item>
+        <item><![CDATA[Fluticasone Propionate]]></item>
+        <item><![CDATA[Fluvastatin]]></item>
+        <item><![CDATA[Folic Acid]]></item>
+        <item><![CDATA[Foradil]]></item>
+        <item><![CDATA[Foraven XL]]></item>
+        <item><![CDATA[Formoterol]]></item>
+        <item><![CDATA[Fortipine la40]]></item>
+        <item><![CDATA[Fosamax]]></item>
+        <item><![CDATA[Fosinopril]]></item>
+        <item><![CDATA[Fostair (in combination with formoterol fumarate)]]></item>
+        <item><![CDATA[Fragmin]]></item>
+        <item><![CDATA[Franol-Plus]]></item>
+        <item><![CDATA[Froop]]></item>
+        <item><![CDATA[Frovatriptan]]></item>
+        <item><![CDATA[Frumil]]></item>
+        <item><![CDATA[Frumil LS]]></item>
+        <item><![CDATA[Frumil LS in combination with amiloride (co-amilofruse)]]></item>
+        <item><![CDATA[Frumul in combination with amiloride (co-amilofruse)]]></item>
+        <item><![CDATA[Frusene in combination with triamterene]]></item>
+        <item><![CDATA[Frusid]]></item>
+        <item><![CDATA[Frusol]]></item>
+        <item><![CDATA[Fucidin]]></item>
+        <item><![CDATA[Fucithalmic]]></item>
+        <item><![CDATA[Fungizone]]></item>
+        <item><![CDATA[Furadantin]]></item>
+        <item><![CDATA[Furosemide]]></item>
+        <item><![CDATA[Fusidic Acid]]></item>
+        <item><![CDATA[Fybogel Mebeverine (in combination with ispaghula husk)]]></item>
+        <item><![CDATA[Gabapentin]]></item>
+        <item><![CDATA[Galantamine]]></item>
+        <item><![CDATA[Galenamox]]></item>
+        <item><![CDATA[Galenphol]]></item>
+        <item><![CDATA[Galfer]]></item>
+        <item><![CDATA[Galpseud]]></item>
+        <item><![CDATA[Galpseud Plus]]></item>
+        <item><![CDATA[Galsud]]></item>
+        <item><![CDATA[Galsya XL]]></item>
+        <item><![CDATA[Gastrocote (with alginic acid, aluminium hydroxide and magnesium trisilicate)]]></item>
+        <item><![CDATA[Gavilast]]></item>
+        <item><![CDATA[Gavilast-p]]></item>
+        <item><![CDATA[Gaviscon (with calcium carbonate and sodium alginate)]]></item>
+        <item><![CDATA[Gaviscon Cool (with calcium carbonate and sodium alginate)]]></item>
+        <item><![CDATA[Gaviscon Double Action (with calcium carbonate and sodium alginate)]]></item>
+        <item><![CDATA[Gentamicin]]></item>
+        <item><![CDATA[Genticin]]></item>
+        <item><![CDATA[Germolene]]></item>
+        <item><![CDATA[Germoloids]]></item>
+        <item><![CDATA[Gestone]]></item>
+        <item><![CDATA[Glibenclamide]]></item>
+        <item><![CDATA[Gliclazide]]></item>
+        <item><![CDATA[Glimepiride]]></item>
+        <item><![CDATA[Glipizide]]></item>
+        <item><![CDATA[Glucobay]]></item>
+        <item><![CDATA[Glucophage]]></item>
+        <item><![CDATA[Glucophage SR]]></item>
+        <item><![CDATA[Glycerol]]></item>
+        <item><![CDATA[Glyceryl Trinitrate]]></item>
+        <item><![CDATA[Glytrin]]></item>
+        <item><![CDATA[Gopten]]></item>
+        <item><![CDATA[Goserelin]]></item>
+        <item><![CDATA[Grepid]]></item>
+        <item><![CDATA[Haelan]]></item>
+        <item><![CDATA[Haldol]]></item>
+        <item><![CDATA[Half beta-prograne]]></item>
+        <item><![CDATA[Half Securon SR]]></item>
+        <item><![CDATA[Half Sinemet]]></item>
+        <item><![CDATA[Half Sinemet CR]]></item>
+        <item><![CDATA[Half-inderal la]]></item>
+        <item><![CDATA[Halita]]></item>
+        <item><![CDATA[Haloperidol]]></item>
+        <item><![CDATA[Hay-crom]]></item>
+        <item><![CDATA[Hayleve]]></item>
+        <item><![CDATA[Hedrin]]></item>
+        <item><![CDATA[Heminevrin]]></item>
+        <item><![CDATA[Heparinoid]]></item>
+        <item><![CDATA[Hibiscrub]]></item>
+        <item><![CDATA[Hibitane]]></item>
+        <item><![CDATA[Hirudoid]]></item>
+        <item><![CDATA[Histac]]></item>
+        <item><![CDATA[Hormonin]]></item>
+        <item><![CDATA[Hydralazine]]></item>
+        <item><![CDATA[Hydrocortisone]]></item>
+        <item><![CDATA[Hydromol Intensive]]></item>
+        <item><![CDATA[Hydroxocobalamin]]></item>
+        <item><![CDATA[Hygroton]]></item>
+        <item><![CDATA[Hyoscine Butylbromide]]></item>
+        <item><![CDATA[Hypnovel]]></item>
+        <item><![CDATA[Hypolar retard]]></item>
+        <item><![CDATA[Hypolar xl]]></item>
+        <item><![CDATA[Hypoloc]]></item>
+        <item><![CDATA[Hypovase]]></item>
+        <item><![CDATA[Hypromellose]]></item>
+        <item><![CDATA[Hytrin]]></item>
+        <item><![CDATA[Ibandronic Acid]]></item>
+        <item><![CDATA[Ibuderm]]></item>
+        <item><![CDATA[Ibugel]]></item>
+        <item><![CDATA[Ibuleve]]></item>
+        <item><![CDATA[Ibumousse]]></item>
+        <item><![CDATA[Ibuprofen]]></item>
+        <item><![CDATA[Ibuspray]]></item>
+        <item><![CDATA[Iglu]]></item>
+        <item><![CDATA[Ikorel]]></item>
+        <item><![CDATA[Ilube]]></item>
+        <item><![CDATA[Imigran]]></item>
+        <item><![CDATA[Imigran Radis]]></item>
+        <item><![CDATA[Imigran Recovery]]></item>
+        <item><![CDATA[Imigran Subject]]></item>
+        <item><![CDATA[Imipramine]]></item>
+        <item><![CDATA[Imiquimod]]></item>
+        <item><![CDATA[Imodium]]></item>
+        <item><![CDATA[Imodium Plus (in combination with simeticone)]]></item>
+        <item><![CDATA[Imuran]]></item>
+        <item><![CDATA[Indapamide]]></item>
+        <item><![CDATA[Inderal]]></item>
+        <item><![CDATA[Inderal-la]]></item>
+        <item><![CDATA[Indivina]]></item>
+        <item><![CDATA[Indocid PDA]]></item>
+        <item><![CDATA[Indolar SR]]></item>
+        <item><![CDATA[Indometacin]]></item>
+        <item><![CDATA[Indoramin]]></item>
+        <item><![CDATA[Inegy (in combination with simvastatin)]]></item>
+        <item><![CDATA[Inergy (in combination with ezetimibe)]]></item>
+        <item><![CDATA[Infacol]]></item>
+        <item><![CDATA[Innovace]]></item>
+        <item><![CDATA[Inspra]]></item>
+        <item><![CDATA[Instillagel]]></item>
+        <item><![CDATA[Intal]]></item>
+        <item><![CDATA[Intrinsa]]></item>
+        <item><![CDATA[Ipcol]]></item>
+        <item><![CDATA[Ipratropium Bromide]]></item>
+        <item><![CDATA[Irbesartan]]></item>
+        <item><![CDATA[Irriclens]]></item>
+        <item><![CDATA[Isopto Alkaline]]></item>
+        <item><![CDATA[Isopto Plain]]></item>
+        <item><![CDATA[Isosorbide Mononitrate]]></item>
+        <item><![CDATA[Isotretinoin]]></item>
+        <item><![CDATA[Isotrex]]></item>
+        <item><![CDATA[Isotrexin]]></item>
+        <item><![CDATA[Istin]]></item>
+        <item><![CDATA[Itraconazole]]></item>
+        <item><![CDATA[Ivabradine]]></item>
+        <item><![CDATA[Januvia]]></item>
+        <item><![CDATA[Jext]]></item>
+        <item><![CDATA[Kalten with diuretic]]></item>
+        <item><![CDATA[Kapake]]></item>
+        <item><![CDATA[Kapake in combination with codeine phosphate (co-codamol)]]></item>
+        <item><![CDATA[Kay-Cee-L]]></item>
+        <item><![CDATA[Keflex]]></item>
+        <item><![CDATA[Keftid]]></item>
+        <item><![CDATA[Kemadrin]]></item>
+        <item><![CDATA[Kemicetine]]></item>
+        <item><![CDATA[Kenalog]]></item>
+        <item><![CDATA[Kentera]]></item>
+        <item><![CDATA[Keppra]]></item>
+        <item><![CDATA[Ketocid]]></item>
+        <item><![CDATA[Ketoconazole]]></item>
+        <item><![CDATA[Ketopine]]></item>
+        <item><![CDATA[Ketoprofen]]></item>
+        <item><![CDATA[Ketorolac Trometamol]]></item>
+        <item><![CDATA[Ketovail]]></item>
+        <item><![CDATA[Ketovite (in combination with various vitamins and minerals)]]></item>
+        <item><![CDATA["Ketovite (with various vitamins and minerals; composition varies in liquid and tablets)"]]></item>
+        <item><![CDATA["Ketovite (with various vitamins and minerals; composition varies in liquid and tablets)"]]></item>
+        <item><![CDATA[Klaricid]]></item>
+        <item><![CDATA[Klaricid IV]]></item>
+        <item><![CDATA[Klaricid XL]]></item>
+        <item><![CDATA[Klean-Prep (with polyethylene glycol, sodium sulphate, sodium chloride and potassium chloride)]]></item>
+        <item><![CDATA[Kliofem]]></item>
+        <item><![CDATA[Kliovance]]></item>
+        <item><![CDATA[Kolanticon (in combination with aluminium hydroxide, light magnesium oxide and simethicone)]]></item>
+        <item><![CDATA[Labetalol Hydrochloride]]></item>
+        <item><![CDATA[Lacidipine]]></item>
+        <item><![CDATA[Lacri-Lube]]></item>
+        <item><![CDATA[Lactugal]]></item>
+        <item><![CDATA[Lactulose]]></item>
+        <item><![CDATA[Ladropen]]></item>
+        <item><![CDATA[Laevolac]]></item>
+        <item><![CDATA[Lamictal]]></item>
+        <item><![CDATA[Lamisal AT]]></item>
+        <item><![CDATA[Lamisil]]></item>
+        <item><![CDATA[Lamotrigine]]></item>
+        <item><![CDATA[Lansoprazole]]></item>
+        <item><![CDATA[Larapam SR]]></item>
+        <item><![CDATA[Largactil]]></item>
+        <item><![CDATA[Lariam]]></item>
+        <item><![CDATA[Lasilactone (spironolactone and furosemide)]]></item>
+        <item><![CDATA[Lasilactone in combination with spironolactone]]></item>
+        <item><![CDATA[Lasix]]></item>
+        <item><![CDATA[Latanoprost]]></item>
+        <item><![CDATA[Laxido]]></item>
+        <item><![CDATA[Leflunomide]]></item>
+        <item><![CDATA[Lemsip]]></item>
+        <item><![CDATA[Lemsip Max]]></item>
+        <item><![CDATA[Lercanidipine Hydrochloride]]></item>
+        <item><![CDATA[Lescol]]></item>
+        <item><![CDATA[Lescol XL]]></item>
+        <item><![CDATA[Letrozole]]></item>
+        <item><![CDATA[Levetiracetam]]></item>
+        <item><![CDATA[Levitra]]></item>
+        <item><![CDATA[Levobunolol]]></item>
+        <item><![CDATA[Levocetirizine]]></item>
+        <item><![CDATA[Levocetrizine]]></item>
+        <item><![CDATA[Levomepromazine]]></item>
+        <item><![CDATA[Levonelle]]></item>
+        <item><![CDATA[Levonorgestrel]]></item>
+        <item><![CDATA[Levothyroxine]]></item>
+        <item><![CDATA[Librium]]></item>
+        <item><![CDATA[Lidocaine]]></item>
+        <item><![CDATA[Li-Liquid]]></item>
+        <item><![CDATA[Linagliptin]]></item>
+        <item><![CDATA[Lioresal]]></item>
+        <item><![CDATA[Liothyronine]]></item>
+        <item><![CDATA[Lipitor]]></item>
+        <item><![CDATA[Lipostat]]></item>
+        <item><![CDATA[Liquifilm Tears]]></item>
+        <item><![CDATA[Lisinopril]]></item>
+        <item><![CDATA[Liskonum]]></item>
+        <item><![CDATA[Lithium]]></item>
+        <item><![CDATA[Livial]]></item>
+        <item><![CDATA[Loceryl]]></item>
+        <item><![CDATA[Locoid]]></item>
+        <item><![CDATA[Lodine SR]]></item>
+        <item><![CDATA[Lodotra]]></item>
+        <item><![CDATA[Lofepramine]]></item>
+        <item><![CDATA[Lomotil (with diphenoxylate)]]></item>
+        <item><![CDATA[Loniten]]></item>
+        <item><![CDATA[Lopace]]></item>
+        <item><![CDATA[Loperamide]]></item>
+        <item><![CDATA[Loprazolam]]></item>
+        <item><![CDATA[Lopresor]]></item>
+        <item><![CDATA[Lopresor SR]]></item>
+        <item><![CDATA[Loratadine]]></item>
+        <item><![CDATA[Lorazepam]]></item>
+        <item><![CDATA[Lormetazepam]]></item>
+        <item><![CDATA[Loron 520]]></item>
+        <item><![CDATA[Losartan]]></item>
+        <item><![CDATA[Losec]]></item>
+        <item><![CDATA[Losec MUPS]]></item>
+        <item><![CDATA[Losinate MR]]></item>
+        <item><![CDATA[Lumigan]]></item>
+        <item><![CDATA[Lustral]]></item>
+        <item><![CDATA[Luvinsta XL]]></item>
+        <item><![CDATA[Lyclear]]></item>
+        <item><![CDATA[Lyflex]]></item>
+        <item><![CDATA[Lymecycline]]></item>
+        <item><![CDATA[Lypsyl]]></item>
+        <item><![CDATA[Lyrica]]></item>
+        <item><![CDATA[Lyrinel XL]]></item>
+        <item><![CDATA[Lysovir]]></item>
+        <item><![CDATA[Lythrin]]></item>
+        <item><![CDATA[Maalox (in combination with aluminium hydroxide)]]></item>
+        <item><![CDATA[Maalox Plus (in combination with simeticone and aluminium hydroxide)]]></item>
+        <item><![CDATA[Mabron]]></item>
+        <item><![CDATA[Macrobid]]></item>
+        <item><![CDATA[Macrodantin]]></item>
+        <item><![CDATA[Macrogol Compound Npf]]></item>
+        <item><![CDATA[Madopar]]></item>
+        <item><![CDATA[Madopar CR]]></item>
+        <item><![CDATA[Magnesium Hydroxide]]></item>
+        <item><![CDATA[Malathion Aqueous]]></item>
+        <item><![CDATA[Maloxon]]></item>
+        <item><![CDATA[Marevan]]></item>
+        <item><![CDATA[Marvelon (with ethinylestradiol)]]></item>
+        <item><![CDATA[Maxalt]]></item>
+        <item><![CDATA[Maxalt Melt]]></item>
+        <item><![CDATA[Maxidex]]></item>
+        <item><![CDATA[Maxitram SR]]></item>
+        <item><![CDATA[Maxtrex]]></item>
+        <item><![CDATA[Mebendazole]]></item>
+        <item><![CDATA[Mebeverine Hydrochloride]]></item>
+        <item><![CDATA[Medijel]]></item>
+        <item><![CDATA[Medikinet XL]]></item>
+        <item><![CDATA[Medinol]]></item>
+        <item><![CDATA[Medocodene]]></item>
+        <item><![CDATA[Medocodene in combination with codeine phosphate (co-codamol)]]></item>
+        <item><![CDATA[Medroxyprogesterone Acetate]]></item>
+        <item><![CDATA[Mefenamic Acid]]></item>
+        <item><![CDATA[Mefloquine]]></item>
+        <item><![CDATA[Megace]]></item>
+        <item><![CDATA[Megestrol Acetate]]></item>
+        <item><![CDATA[Melatonin]]></item>
+        <item><![CDATA[Meloxicam]]></item>
+        <item><![CDATA[Meltus SSL]]></item>
+        <item><![CDATA[Memantine]]></item>
+        <item><![CDATA[Mepradec]]></item>
+        <item><![CDATA[Meptazinol]]></item>
+        <item><![CDATA[Meptid]]></item>
+        <item><![CDATA[Merbentyl]]></item>
+        <item><![CDATA[Mercilon (with ethinylestradiol)]]></item>
+        <item><![CDATA[Mesalazine]]></item>
+        <item><![CDATA[Mesren MR]]></item>
+        <item><![CDATA[Mestinon]]></item>
+        <item><![CDATA[Metatone (with calcium glycerophosphate, potassium glycerophosphate, sodium glycerophosphate and manganese glycerophosphate)]]></item>
+        <item><![CDATA[Metenix 5]]></item>
+        <item><![CDATA[Metformin]]></item>
+        <item><![CDATA[Methadone]]></item>
+        <item><![CDATA[Methadose]]></item>
+        <item><![CDATA[Metharose]]></item>
+        <item><![CDATA[Methocarbamol]]></item>
+        <item><![CDATA[Methotrexate]]></item>
+        <item><![CDATA[Methylcellulose]]></item>
+        <item><![CDATA[Methyldopa]]></item>
+        <item><![CDATA[Methylphenidate]]></item>
+        <item><![CDATA[Metoclopramide]]></item>
+        <item><![CDATA[Metoject]]></item>
+        <item><![CDATA[Metolazone]]></item>
+        <item><![CDATA[Metoprolol]]></item>
+        <item><![CDATA[Metrogel]]></item>
+        <item><![CDATA[Metrolyl]]></item>
+        <item><![CDATA[Metronidazole]]></item>
+        <item><![CDATA[Metrotop]]></item>
+        <item><![CDATA[Metsol]]></item>
+        <item><![CDATA[Mezavant XL]]></item>
+        <item><![CDATA[Micardis]]></item>
+        <item><![CDATA[Micralax Micro-enema (in combination with sodium alkylsulphoacetate)]]></item>
+        <item><![CDATA[Micronor]]></item>
+        <item><![CDATA[Micropirin]]></item>
+        <item><![CDATA[Midazolam]]></item>
+        <item><![CDATA[Migard]]></item>
+        <item><![CDATA[Migramax (combination with lysine acetylsalicylate and metoclopramide hydrochloride)]]></item>
+        <item><![CDATA[Migramax (with lysine acetylsalicylate)]]></item>
+        <item><![CDATA[Mildison Lipocream]]></item>
+        <item><![CDATA[Minijet]]></item>
+        <item><![CDATA[Minims]]></item>
+        <item><![CDATA[Minims]]></item>
+        <item><![CDATA[Minims]]></item>
+        <item><![CDATA[Minims dexamethasone]]></item>
+        <item><![CDATA[Minitran]]></item>
+        <item><![CDATA[Miniversol]]></item>
+        <item><![CDATA[Minocin MR]]></item>
+        <item><![CDATA[Minocycline]]></item>
+        <item><![CDATA[Minodiab]]></item>
+        <item><![CDATA[Minoxidil]]></item>
+        <item><![CDATA[Mintec]]></item>
+        <item><![CDATA[Mirapexin]]></item>
+        <item><![CDATA[Mirtazapine]]></item>
+        <item><![CDATA[Mizolastine]]></item>
+        <item><![CDATA[Mizollen]]></item>
+        <item><![CDATA[Modafinil]]></item>
+        <item><![CDATA[Modalim]]></item>
+        <item><![CDATA[Modigraf]]></item>
+        <item><![CDATA[Moduret 25]]></item>
+        <item><![CDATA[Moduretic]]></item>
+        <item><![CDATA[Mogadon]]></item>
+        <item><![CDATA[Molaxole]]></item>
+        <item><![CDATA[Molipaxin]]></item>
+        <item><![CDATA[Mometasone Furoate]]></item>
+        <item><![CDATA[Monotrim]]></item>
+        <item><![CDATA[Montelukast]]></item>
+        <item><![CDATA[Morphgesic SR]]></item>
+        <item><![CDATA[Morphine Sulphate]]></item>
+        <item><![CDATA[Motens]]></item>
+        <item><![CDATA[Motifene]]></item>
+        <item><![CDATA[Motilium]]></item>
+        <item><![CDATA[Movicol]]></item>
+        <item><![CDATA[Movicol (with macrogol, sodium chloride and potassium chloride)]]></item>
+        <item><![CDATA[Movicol-Half (with macrogol, sodium chloride and potassium chloride)]]></item>
+        <item><![CDATA[Movicol-Paediatric Plain (with macrogol, sodium chloride and potassium chloride)]]></item>
+        <item><![CDATA[Moxonidine]]></item>
+        <item><![CDATA[MST-continus]]></item>
+        <item><![CDATA[Mucodyne]]></item>
+        <item><![CDATA[Mupirocin]]></item>
+        <item><![CDATA[Muse]]></item>
+        <item><![CDATA[MXL]]></item>
+        <item><![CDATA[Mycophenolate Mofetil]]></item>
+        <item><![CDATA[Mydrilate]]></item>
+        <item><![CDATA[Mysoline]]></item>
+        <item><![CDATA[Nabumetone]]></item>
+        <item><![CDATA[Nalcrom]]></item>
+        <item><![CDATA[Naprosyn]]></item>
+        <item><![CDATA[Naprosyn EC]]></item>
+        <item><![CDATA[Naproxen]]></item>
+        <item><![CDATA[Naramig]]></item>
+        <item><![CDATA[Naratriptan]]></item>
+        <item><![CDATA[Nasacort]]></item>
+        <item><![CDATA[Naseptin]]></item>
+        <item><![CDATA[Nasofan]]></item>
+        <item><![CDATA[Nasonex]]></item>
+        <item><![CDATA[Natrilix]]></item>
+        <item><![CDATA[Natrilix SR]]></item>
+        <item><![CDATA[Nebido]]></item>
+        <item><![CDATA[Nebilet]]></item>
+        <item><![CDATA[Nebivolol]]></item>
+        <item><![CDATA[Nedocromil Sodium]]></item>
+        <item><![CDATA[Nefopam]]></item>
+        <item><![CDATA[Neoclarityn]]></item>
+        <item><![CDATA[Neo-Cytamen]]></item>
+        <item><![CDATA[Neo-Mercazole]]></item>
+        <item><![CDATA[Neo-NaClex]]></item>
+        <item><![CDATA[Neo-NaClex-K]]></item>
+        <item><![CDATA[Neoral]]></item>
+        <item><![CDATA[Neozipine]]></item>
+        <item><![CDATA[Neulactil]]></item>
+        <item><![CDATA[Neupro]]></item>
+        <item><![CDATA[Neurontin]]></item>
+        <item><![CDATA[Nexplanon]]></item>
+        <item><![CDATA[Nicardipine Hydrochloride]]></item>
+        <item><![CDATA[Nicef]]></item>
+        <item><![CDATA[Nicopass]]></item>
+        <item><![CDATA[Nicopatch]]></item>
+        <item><![CDATA[Nicorandil]]></item>
+        <item><![CDATA[Nicorette]]></item>
+        <item><![CDATA[Nicotine]]></item>
+        <item><![CDATA[Nicotinell]]></item>
+        <item><![CDATA[Niddaryl]]></item>
+        <item><![CDATA[Nifedipine]]></item>
+        <item><![CDATA[Nifedipress mr]]></item>
+        <item><![CDATA[Nifopress retard]]></item>
+        <item><![CDATA[Nimodrel xl]]></item>
+        <item><![CDATA[NiQuitin]]></item>
+        <item><![CDATA[Nitrazepam]]></item>
+        <item><![CDATA[Nitrocine]]></item>
+        <item><![CDATA[Nitro-dur]]></item>
+        <item><![CDATA[Nitrofurantoin]]></item>
+        <item><![CDATA[Nitrolingual Pump Spray]]></item>
+        <item><![CDATA[Nitromin]]></item>
+        <item><![CDATA[Nitronal]]></item>
+        <item><![CDATA[Nizatidine]]></item>
+        <item><![CDATA[Nizoral]]></item>
+        <item><![CDATA[Norelgestromin With Ethinylestradiol]]></item>
+        <item><![CDATA[Norethisterone]]></item>
+        <item><![CDATA[Norgalax]]></item>
+        <item><![CDATA[Norgeston]]></item>
+        <item><![CDATA[Noriday]]></item>
+        <item><![CDATA[Norimode]]></item>
+        <item><![CDATA[Noristerat]]></item>
+        <item><![CDATA[Normacol]]></item>
+        <item><![CDATA[Normacol Plus (in combination with frangula)]]></item>
+        <item><![CDATA[Normasol]]></item>
+        <item><![CDATA[Normax Suspension (in combination with Dantron)]]></item>
+        <item><![CDATA[Nortriptyline]]></item>
+        <item><![CDATA[Norzol]]></item>
+        <item><![CDATA[Novgos]]></item>
+        <item><![CDATA[Nozinan]]></item>
+        <item><![CDATA[Nuelin SA]]></item>
+        <item><![CDATA[Numark]]></item>
+        <item><![CDATA[Nurofen]]></item>
+        <item><![CDATA[Nurofen Cold & Flu]]></item>
+        <item><![CDATA[Nurse Harvey\'s Gripe Mixture]]></item>
+        <item><![CDATA[Nu-Seals]]></item>
+        <item><![CDATA[Nutraplus]]></item>
+        <item><![CDATA[Nutrizym 10]]></item>
+        <item><![CDATA[Nutrizym 22]]></item>
+        <item><![CDATA[Nuvelle]]></item>
+        <item><![CDATA[Nuvelle Continous]]></item>
+        <item><![CDATA[Nyogel]]></item>
+        <item><![CDATA[Nystaform]]></item>
+        <item><![CDATA[Nystaform-hc]]></item>
+        <item><![CDATA[Occlusal]]></item>
+        <item><![CDATA[Octasa]]></item>
+        <item><![CDATA[Octim]]></item>
+        <item><![CDATA[Oestrogel]]></item>
+        <item><![CDATA[Ofloxacin]]></item>
+        <item><![CDATA[Oilatum]]></item>
+        <item><![CDATA[Oilatum Junior]]></item>
+        <item><![CDATA[Olanzapine]]></item>
+        <item><![CDATA[Olmesartan Medoxomil]]></item>
+        <item><![CDATA[Olmetec]]></item>
+        <item><![CDATA[Olopatadine]]></item>
+        <item><![CDATA[Omeprazole]]></item>
+        <item><![CDATA[Ondansetron]]></item>
+        <item><![CDATA[Ondemet]]></item>
+        <item><![CDATA[One-Alpha]]></item>
+        <item><![CDATA[Opatanol]]></item>
+        <item><![CDATA[Opticrom]]></item>
+        <item><![CDATA[Optilast]]></item>
+        <item><![CDATA[Optrex Allergy Eyes]]></item>
+        <item><![CDATA[Oramorph]]></item>
+        <item><![CDATA[Orbifen]]></item>
+        <item><![CDATA[Orciprenaline Sulphate]]></item>
+        <item><![CDATA[Orlistat]]></item>
+        <item><![CDATA[Orovite (with pyridoxine, riboflavin, nicotinamide and ascorbic acid)]]></item>
+        <item><![CDATA[Orovite (with thiamine, riboflavin, nicotinamide and ascorbic acid)]]></item>
+        <item><![CDATA[Orovite \'7\' (with vitamin A, vitamin D, pyridoxine, riboflavin, nicotinamide and ascorbic acid)]]></item>
+        <item><![CDATA[Orovite \'7\' (with vitamin A, vitamin D, thiamine, riboflavin, nicotinamide and ascorbic acid)]]></item>
+        <item><![CDATA[Orphenadrine Hydrochloride]]></item>
+        <item><![CDATA[Ortho-Gynest]]></item>
+        <item><![CDATA[Orudis]]></item>
+        <item><![CDATA[Oruvail]]></item>
+        <item><![CDATA[Oseltamivir]]></item>
+        <item><![CDATA[Otrivine]]></item>
+        <item><![CDATA[Otrivine MU-CRON]]></item>
+        <item><![CDATA[Ovestin]]></item>
+        <item><![CDATA[Ovex]]></item>
+        <item><![CDATA[Oxactin]]></item>
+        <item><![CDATA[Oxazepam]]></item>
+        <item><![CDATA[Oxcarbazepine]]></item>
+        <item><![CDATA[Oxis]]></item>
+        <item><![CDATA[Oxprenolol]]></item>
+        <item><![CDATA[Oxy-10]]></item>
+        <item><![CDATA[Oxybutynin]]></item>
+        <item><![CDATA[Oxycodone Hydrochloride]]></item>
+        <item><![CDATA[Oxycontin]]></item>
+        <item><![CDATA[Oxymycin]]></item>
+        <item><![CDATA[Oxynorm]]></item>
+        <item><![CDATA[Oxytetracycline]]></item>
+        <item><![CDATA[Pabrinex (high potency vitamins B and C)]]></item>
+        <item><![CDATA[Pabrinex (high potency vitamins B and C)]]></item>
+        <item><![CDATA[Panadeine]]></item>
+        <item><![CDATA[Panadeine in combination with codeine phosphate (co-codamol)]]></item>
+        <item><![CDATA[Panadol]]></item>
+        <item><![CDATA[Panadol Actifast (with paracetamol)]]></item>
+        <item><![CDATA[Pancrease HL]]></item>
+        <item><![CDATA[Pancreatin]]></item>
+        <item><![CDATA[Pancrex]]></item>
+        <item><![CDATA[Pancrex V]]></item>
+        <item><![CDATA[Panoxyl 10]]></item>
+        <item><![CDATA[Panoxyl 5]]></item>
+        <item><![CDATA[Panoxyl aquagel]]></item>
+        <item><![CDATA[Panoxyl wash]]></item>
+        <item><![CDATA[Pantoprazole]]></item>
+        <item><![CDATA[Paracetamol]]></item>
+        <item><![CDATA[Paracetamol with Codeine with Doxylamine with Caffeine]]></item>
+        <item><![CDATA[Paracodol]]></item>
+        <item><![CDATA[Paracodol in combination with codeine phosphate (co-codamol)]]></item>
+        <item><![CDATA[Paramax (with paracetamol)]]></item>
+        <item><![CDATA[Paramol]]></item>
+        <item><![CDATA[Paramol in combination with dihydrocodeine tartrate (co-dydramol)]]></item>
+        <item><![CDATA[Pardelprin MR]]></item>
+        <item><![CDATA[Pariet]]></item>
+        <item><![CDATA[Paroxetine]]></item>
+        <item><![CDATA[Parvolex]]></item>
+        <item><![CDATA[Pavacol D]]></item>
+        <item><![CDATA[Peach (in combination with dextrose monohydrate, potassium chloride and sodium chloride)]]></item>
+        <item><![CDATA[Penicillin (Phenoxymethylpenicillin)]]></item>
+        <item><![CDATA[Pentasa]]></item>
+        <item><![CDATA[Peppermint Oil]]></item>
+        <item><![CDATA[Peptac Liquid (with calcium carbonate and sodium alginate)]]></item>
+        <item><![CDATA[Peptimax]]></item>
+        <item><![CDATA[Percutol]]></item>
+        <item><![CDATA[Perfalgan]]></item>
+        <item><![CDATA[Pericyazine]]></item>
+        <item><![CDATA[Perinal]]></item>
+        <item><![CDATA[Perindopril Erbumine]]></item>
+        <item><![CDATA[Perio.aid]]></item>
+        <item><![CDATA[Periostat]]></item>
+        <item><![CDATA[Permethrin]]></item>
+        <item><![CDATA[Persantin]]></item>
+        <item><![CDATA[Persantin retard]]></item>
+        <item><![CDATA[Pethidine]]></item>
+        <item><![CDATA[Pharmaton (in combination with various vitamins and minerals)]]></item>
+        <item><![CDATA[Pharmaton (with vitamin A, cholecalciferol, tocopherol, pyridoxine, riboflavin, cyanocobalamin, biotin, nicotinamide, ascorbic acid, folic acid, copper sulphate, sodium selenite, magnesium sulphate, iron sulphate, zinc sulphate, calcium phosphate and lecithin)]]></item>
+        <item><![CDATA[Pharmaton (with, vitamin A, cholecalciferol, tocopherol, thiamine, riboflavin, cyanocobalamin, biotin, nicotinamide, ascorbic acid, folic acid, copper sulphate, sodium selenite, magnesium sulphate, iron sulphate, zinc sulphate, calcium phosphate and lecithin)]]></item>
+        <item><![CDATA[Phenergan]]></item>
+        <item><![CDATA[Phenobarbital]]></item>
+        <item><![CDATA[Phenytoin Sodium]]></item>
+        <item><![CDATA[Phillip\'s Milk of Magnesia]]></item>
+        <item><![CDATA[Pholcodine]]></item>
+        <item><![CDATA[Phosphate-Sandoz (with potassium bicarbonate and sodium acid phosphate)]]></item>
+        <item><![CDATA[Phyllocontin Continus]]></item>
+        <item><![CDATA[Physeptone]]></item>
+        <item><![CDATA[Physiotens]]></item>
+        <item><![CDATA[Picolax in combination with magnesium citrate]]></item>
+        <item><![CDATA[Pilocarpine]]></item>
+        <item><![CDATA[Pinexel PR]]></item>
+        <item><![CDATA[Pioglitazone]]></item>
+        <item><![CDATA[Piriteze]]></item>
+        <item><![CDATA[Piriton]]></item>
+        <item><![CDATA[Piroxicam]]></item>
+        <item><![CDATA[Pizotifen]]></item>
+        <item><![CDATA[Plavix]]></item>
+        <item><![CDATA[Plendil]]></item>
+        <item><![CDATA[Politid XL]]></item>
+        <item><![CDATA[Pollenase]]></item>
+        <item><![CDATA[Pollenshield]]></item>
+        <item><![CDATA[Polyvinyl Alcohol]]></item>
+        <item><![CDATA[Ponstan]]></item>
+        <item><![CDATA[Potassium Chloride]]></item>
+        <item><![CDATA[Potters]]></item>
+        <item><![CDATA[Povidone Iodine]]></item>
+        <item><![CDATA[Powergel]]></item>
+        <item><![CDATA[Pramipexole]]></item>
+        <item><![CDATA[Prandin]]></item>
+        <item><![CDATA[Pravastatin]]></item>
+        <item><![CDATA[Prazosin]]></item>
+        <item><![CDATA[Pred Forte]]></item>
+        <item><![CDATA[Predfoam]]></item>
+        <item><![CDATA[Prednisolone]]></item>
+        <item><![CDATA[Prednisone]]></item>
+        <item><![CDATA[Predsol]]></item>
+        <item><![CDATA[Pregabalin]]></item>
+        <item><![CDATA[Pregaday (with folic acid)]]></item>
+        <item><![CDATA[Presinex]]></item>
+        <item><![CDATA[Prestim (with timolol)]]></item>
+        <item><![CDATA[Priadel]]></item>
+        <item><![CDATA[Primidone]]></item>
+        <item><![CDATA[Primolut N]]></item>
+        <item><![CDATA[Pripsen]]></item>
+        <item><![CDATA[Pro-Banthine]]></item>
+        <item><![CDATA[Procaine]]></item>
+        <item><![CDATA[Prochlorperazine Maleate]]></item>
+        <item><![CDATA[Procoralan]]></item>
+        <item><![CDATA[Procyclidine]]></item>
+        <item><![CDATA[Progesterone]]></item>
+        <item><![CDATA[Prograf]]></item>
+        <item><![CDATA[Progynova]]></item>
+        <item><![CDATA[Progynova TS]]></item>
+        <item><![CDATA[Promazine]]></item>
+        <item><![CDATA[Promethazine Hydrochloride]]></item>
+        <item><![CDATA[Propantheline Bromide]]></item>
+        <item><![CDATA[Propecia]]></item>
+        <item><![CDATA[Propiverine Hydrochloride]]></item>
+        <item><![CDATA[Propranolol]]></item>
+        <item><![CDATA[Propylthiouracil]]></item>
+        <item><![CDATA[Proscar]]></item>
+        <item><![CDATA[Prostin VR]]></item>
+        <item><![CDATA[Prosurin XL]]></item>
+        <item><![CDATA[Protelos]]></item>
+        <item><![CDATA[Prothiaden]]></item>
+        <item><![CDATA[Protium]]></item>
+        <item><![CDATA[Protopic]]></item>
+        <item><![CDATA[Provera]]></item>
+        <item><![CDATA[Provigil]]></item>
+        <item><![CDATA[Prozac]]></item>
+        <item><![CDATA[Prozep]]></item>
+        <item><![CDATA[Pseudoephedrine]]></item>
+        <item><![CDATA[Pulmicort]]></item>
+        <item><![CDATA[Pulvinal Beclometasone Dipropionate]]></item>
+        <item><![CDATA[Pulvinal Salbutanol]]></item>
+        <item><![CDATA[Pylorid]]></item>
+        <item><![CDATA[Pyridostigmine Bromide]]></item>
+        <item><![CDATA[Pyridoxine]]></item>
+        <item><![CDATA[Questran]]></item>
+        <item><![CDATA[Questran Light]]></item>
+        <item><![CDATA[Quetiapine]]></item>
+        <item><![CDATA[Quinapril]]></item>
+        <item><![CDATA[Quinil]]></item>
+        <item><![CDATA[Quinoderm]]></item>
+        <item><![CDATA[QV]]></item>
+        <item><![CDATA[Rabeprazole Sodium]]></item>
+        <item><![CDATA[Raloxifene]]></item>
+        <item><![CDATA[Ramipril]]></item>
+        <item><![CDATA[Ranitic]]></item>
+        <item><![CDATA[Ranitidine]]></item>
+        <item><![CDATA[Ranitil]]></item>
+        <item><![CDATA[Ranzac]]></item>
+        <item><![CDATA[Raptil eye drops]]></item>
+        <item><![CDATA[Rasagiline]]></item>
+        <item><![CDATA[Reboxetine]]></item>
+        <item><![CDATA[Rectogesic]]></item>
+        <item><![CDATA[Reductil]]></item>
+        <item><![CDATA[Regaine]]></item>
+        <item><![CDATA[Regurin]]></item>
+        <item><![CDATA[Regurin XL]]></item>
+        <item><![CDATA[Relaxit Micro-enema (in combination with sodium lauryl sulphate, sorbic acid, sorbitol and glycerol)]]></item>
+        <item><![CDATA[Relenza]]></item>
+        <item><![CDATA[Relifex]]></item>
+        <item><![CDATA[Remedeine in combination with dihydrocodeine tartrate (co-dydramol)]]></item>
+        <item><![CDATA[Reminyl]]></item>
+        <item><![CDATA[Reminyl XL]]></item>
+        <item><![CDATA[Repaglinide]]></item>
+        <item><![CDATA[Requip]]></item>
+        <item><![CDATA[Requip XL]]></item>
+        <item><![CDATA[Resolve (with paracetamol, citric acid, potassium bicarbonate, sodium carbonate and ascorbic acid)]]></item>
+        <item><![CDATA[Resolve Plus (with paracetamol and caffeine)]]></item>
+        <item><![CDATA[Respontin]]></item>
+        <item><![CDATA[Resprin]]></item>
+        <item><![CDATA[Restandol Testocaps]]></item>
+        <item><![CDATA[Retin-A]]></item>
+        <item><![CDATA[Revatio]]></item>
+        <item><![CDATA[Revocon]]></item>
+        <item><![CDATA[Rheumatac Retard]]></item>
+        <item><![CDATA[Rhinocort aqua]]></item>
+        <item><![CDATA[Rhinolast]]></item>
+        <item><![CDATA[Rhumalgan SR]]></item>
+        <item><![CDATA[Rhumalgan XL]]></item>
+        <item><![CDATA[Rimapam]]></item>
+        <item><![CDATA[Rimapurinol]]></item>
+        <item><![CDATA[Rimoxallin]]></item>
+        <item><![CDATA[Rinatec]]></item>
+        <item><![CDATA[Risedronate Sodium]]></item>
+        <item><![CDATA[Risperdal Consta]]></item>
+        <item><![CDATA[Risperdal liquid]]></item>
+        <item><![CDATA[Risperdal Quicklet]]></item>
+        <item><![CDATA[Risperdal tablets]]></item>
+        <item><![CDATA[Risperidone]]></item>
+        <item><![CDATA[Risperidone tablets]]></item>
+        <item><![CDATA[Ritalin]]></item>
+        <item><![CDATA[Rivastigmine]]></item>
+        <item><![CDATA[Rivotril]]></item>
+        <item><![CDATA[Rizatriptan]]></item>
+        <item><![CDATA[Roaccutane]]></item>
+        <item><![CDATA[Robaxin]]></item>
+        <item><![CDATA[Robitussin]]></item>
+        <item><![CDATA[Robitussin Dry Cough Medicine]]></item>
+        <item><![CDATA[Rocaltrol]]></item>
+        <item><![CDATA[Ropinirole]]></item>
+        <item><![CDATA[Rosiced]]></item>
+        <item><![CDATA[Rosiglitazone]]></item>
+        <item><![CDATA[Rosuvastatin]]></item>
+        <item><![CDATA[Rotigotine]]></item>
+        <item><![CDATA[Rozex]]></item>
+        <item><![CDATA[Rusyde]]></item>
+        <item><![CDATA[Ryancrom]]></item>
+        <item><![CDATA[Salagen]]></item>
+        <item><![CDATA[Salamol]]></item>
+        <item><![CDATA[Salamol Easi-Breathe]]></item>
+        <item><![CDATA[Salamol Steri-Neb]]></item>
+        <item><![CDATA[Salapin]]></item>
+        <item><![CDATA[Salazopyrin]]></item>
+        <item><![CDATA[Salazopyrin EN]]></item>
+        <item><![CDATA[Salbulin Novolizer]]></item>
+        <item><![CDATA[Salbutamol]]></item>
+        <item><![CDATA[Salbutamol Cyclocaps]]></item>
+        <item><![CDATA[Salicylic Acid]]></item>
+        <item><![CDATA[Salmeterol]]></item>
+        <item><![CDATA[Salofalk]]></item>
+        <item><![CDATA[Sandimmune]]></item>
+        <item><![CDATA[Sando-K (with potassium bicarbonate)]]></item>
+        <item><![CDATA[Sandrena]]></item>
+        <item><![CDATA[Sanomigran]]></item>
+        <item><![CDATA[Savlon]]></item>
+        <item><![CDATA[Savlon Bites and Stings Pain Relief Gel]]></item>
+        <item><![CDATA[Savlon Dry]]></item>
+        <item><![CDATA[Scholl Advance Athlete’s Foot]]></item>
+        <item><![CDATA[Sebomin]]></item>
+        <item><![CDATA[Sebren MR]]></item>
+        <item><![CDATA[Securon IV]]></item>
+        <item><![CDATA[Securon SR]]></item>
+        <item><![CDATA[Selegiline Hydrochloride]]></item>
+        <item><![CDATA[Senna]]></item>
+        <item><![CDATA[Senokot]]></item>
+        <item><![CDATA[Septrin]]></item>
+        <item><![CDATA[Serc]]></item>
+        <item><![CDATA[Serenace]]></item>
+        <item><![CDATA[Serevent]]></item>
+        <item><![CDATA[Seroquel]]></item>
+        <item><![CDATA[Seroxat]]></item>
+        <item><![CDATA[Sertraline]]></item>
+        <item><![CDATA[Settlers Heartburn (with alginic acid, aluminium hydroxide and magnesium trisilicate)]]></item>
+        <item><![CDATA[Sevredol]]></item>
+        <item><![CDATA[Sibutramine]]></item>
+        <item><![CDATA[Sildenafil]]></item>
+        <item><![CDATA[Silkis]]></item>
+        <item><![CDATA[Silver Sulfadiazine]]></item>
+        <item><![CDATA[Simeticone]]></item>
+        <item><![CDATA[Simvador]]></item>
+        <item><![CDATA[Simvastatin]]></item>
+        <item><![CDATA[Sinemet]]></item>
+        <item><![CDATA[Sinemet CR]]></item>
+        <item><![CDATA[Sinepin]]></item>
+        <item><![CDATA[Singulair]]></item>
+        <item><![CDATA[Sinutab]]></item>
+        <item><![CDATA[Siopel]]></item>
+        <item><![CDATA[Sitagliptin]]></item>
+        <item><![CDATA[Skinoren]]></item>
+        <item><![CDATA[SLO-Phyllin]]></item>
+        <item><![CDATA[Slow Sodium]]></item>
+        <item><![CDATA[Slow Trasicor]]></item>
+        <item><![CDATA[Slow-K]]></item>
+        <item><![CDATA[Slozem]]></item>
+        <item><![CDATA[Sno-Tears]]></item>
+        <item><![CDATA[Sodium Bicarbonate]]></item>
+        <item><![CDATA[Sodium Chloride]]></item>
+        <item><![CDATA[Sodium Citrate]]></item>
+        <item><![CDATA[Sodium Clodronate]]></item>
+        <item><![CDATA[Sodium Cromoglicate]]></item>
+        <item><![CDATA[Sodium Feredetate]]></item>
+        <item><![CDATA[Sodium Picosulfate]]></item>
+        <item><![CDATA[Sodium Valproate]]></item>
+        <item><![CDATA[Solaraze]]></item>
+        <item><![CDATA[Solian]]></item>
+        <item><![CDATA[Solifenacin Succinate]]></item>
+        <item><![CDATA[solivito (with nicotinamide, sodium pantothenate, biotin, folic acid, cyanobalamin, sodium ascorbate, glycine, methylhydroxybenzoate, pridoxine, sodium edetate and riboflavin)]]></item>
+        <item><![CDATA[Solivito N (in combination with various vitamins and minerals)]]></item>
+        <item><![CDATA[Soloc]]></item>
+        <item><![CDATA[Solpadol]]></item>
+        <item><![CDATA[Solpadol in combination with codeine phosphate (co-codamol)]]></item>
+        <item><![CDATA[Soltamox]]></item>
+        <item><![CDATA[Solu-Cortef]]></item>
+        <item><![CDATA[Solvazinc]]></item>
+        <item><![CDATA[Sominex]]></item>
+        <item><![CDATA[Somnite]]></item>
+        <item><![CDATA[Sotacor]]></item>
+        <item><![CDATA[Sotalol]]></item>
+        <item><![CDATA[Spasmonal]]></item>
+        <item><![CDATA[Spasmonal Forte]]></item>
+        <item><![CDATA[Spiriva]]></item>
+        <item><![CDATA[Spironolactone]]></item>
+        <item><![CDATA[Sporanox]]></item>
+        <item><![CDATA[Sporanox IV]]></item>
+        <item><![CDATA[Sporanox-Pulse]]></item>
+        <item><![CDATA[Sprilon]]></item>
+        <item><![CDATA[Staril]]></item>
+        <item><![CDATA[Stelazine]]></item>
+        <item><![CDATA[Stemetil]]></item>
+        <item><![CDATA[Sterculia]]></item>
+        <item><![CDATA[Sterets]]></item>
+        <item><![CDATA[Steripod]]></item>
+        <item><![CDATA[Steripoules sodium chloride]]></item>
+        <item><![CDATA[Stesolid]]></item>
+        <item><![CDATA[Stiemycin]]></item>
+        <item><![CDATA[Stilnoct]]></item>
+        <item><![CDATA[Strattera]]></item>
+        <item><![CDATA[Stronazon MR]]></item>
+        <item><![CDATA[Strontium Ranelate]]></item>
+        <item><![CDATA[Stugeron]]></item>
+        <item><![CDATA[Subutex]]></item>
+        <item><![CDATA[Sudafed]]></item>
+        <item><![CDATA[Sudafed]]></item>
+        <item><![CDATA[Sudafed Decongestant Elixir]]></item>
+        <item><![CDATA[Sudafed Non-Drowsy 12-Hour]]></item>
+        <item><![CDATA[Sudafed Non-Drowsy Childrens]]></item>
+        <item><![CDATA[Sudafed Non-Drowsy Dual Relief Max]]></item>
+        <item><![CDATA[Sulfasalazine]]></item>
+        <item><![CDATA[Sulpiride]]></item>
+        <item><![CDATA[Sulpor]]></item>
+        <item><![CDATA[Sumatriptan]]></item>
+        <item><![CDATA[Sure-Amp sodium chloride]]></item>
+        <item><![CDATA[Surmontil]]></item>
+        <item><![CDATA[Suscard]]></item>
+        <item><![CDATA[Sustanon]]></item>
+        <item><![CDATA[Symmetrel]]></item>
+        <item><![CDATA[Synalar]]></item>
+        <item><![CDATA[Synalar c]]></item>
+        <item><![CDATA[Synalar n]]></item>
+        <item><![CDATA[Synastone]]></item>
+        <item><![CDATA[Syndol]]></item>
+        <item><![CDATA[Syntaris]]></item>
+        <item><![CDATA[Syprol]]></item>
+        <item><![CDATA[Sytron]]></item>
+        <item><![CDATA[Tabphyn MR]]></item>
+        <item><![CDATA[Tacni]]></item>
+        <item><![CDATA[Tacrolimus]]></item>
+        <item><![CDATA[Tadalafil]]></item>
+        <item><![CDATA[Tagamet]]></item>
+        <item><![CDATA[Tambocor]]></item>
+        <item><![CDATA[Tambocor XL]]></item>
+        <item><![CDATA[Tamiflu]]></item>
+        <item><![CDATA[Tamoxifen]]></item>
+        <item><![CDATA[Tamsulosin]]></item>
+        <item><![CDATA[Tarivid]]></item>
+        <item><![CDATA[Tarivid IV]]></item>
+        <item><![CDATA[Tarka (with trandolapril)]]></item>
+        <item><![CDATA[Tarka (with verapamil)]]></item>
+        <item><![CDATA[Tarodent]]></item>
+        <item><![CDATA[Tears Naturale]]></item>
+        <item><![CDATA[Tegretol]]></item>
+        <item><![CDATA[Telfast]]></item>
+        <item><![CDATA[Telmisartan]]></item>
+        <item><![CDATA[Temazepam]]></item>
+        <item><![CDATA[Temgesic]]></item>
+        <item><![CDATA[Tenif with calcium-channel blocker (nifedipine)]]></item>
+        <item><![CDATA[Tenoret 50]]></item>
+        <item><![CDATA[Tenoret 50 with diuretic]]></item>
+        <item><![CDATA[Tenoretic]]></item>
+        <item><![CDATA[Tenoretic with diuretic]]></item>
+        <item><![CDATA[Tenormin]]></item>
+        <item><![CDATA[Tensipine mr]]></item>
+        <item><![CDATA[Tensium]]></item>
+        <item><![CDATA[Teoptic]]></item>
+        <item><![CDATA[Terazosin]]></item>
+        <item><![CDATA[Terbinafine]]></item>
+        <item><![CDATA[Testim]]></item>
+        <item><![CDATA[Testogel]]></item>
+        <item><![CDATA[Testosterone]]></item>
+        <item><![CDATA[Tetmodis]]></item>
+        <item><![CDATA[Tetrabenazine]]></item>
+        <item><![CDATA[Tetracycline]]></item>
+        <item><![CDATA[Tetralysal 300]]></item>
+        <item><![CDATA[Teveten]]></item>
+        <item><![CDATA[Theophylline]]></item>
+        <item><![CDATA[Thiamine]]></item>
+        <item><![CDATA[Thio-Tepa (with thiotepa and sodium chloride)]]></item>
+        <item><![CDATA[Thwart]]></item>
+        <item><![CDATA[Tibolone]]></item>
+        <item><![CDATA[Tilade inhaler]]></item>
+        <item><![CDATA[Tildiem]]></item>
+        <item><![CDATA[Tildiem la200]]></item>
+        <item><![CDATA[Tildiem la300]]></item>
+        <item><![CDATA[Tildiem retard]]></item>
+        <item><![CDATA[Tiloket]]></item>
+        <item><![CDATA[Tiloryth]]></item>
+        <item><![CDATA[Timodine]]></item>
+        <item><![CDATA[Timolol Maleate]]></item>
+        <item><![CDATA[Timoptol]]></item>
+        <item><![CDATA[Timoptol-LA]]></item>
+        <item><![CDATA[Tiotropium]]></item>
+        <item><![CDATA[Tisept]]></item>
+        <item><![CDATA[Tixylix Cough & Cold]]></item>
+        <item><![CDATA[Tolbutamide]]></item>
+        <item><![CDATA[Tolterodine Tartrate]]></item>
+        <item><![CDATA[Topamax]]></item>
+        <item><![CDATA[Topamax sprinkle]]></item>
+        <item><![CDATA[Topiramate]]></item>
+        <item><![CDATA[Toradol]]></item>
+        <item><![CDATA[Tostran]]></item>
+        <item><![CDATA[Tradorec XL]]></item>
+        <item><![CDATA[Trajenta]]></item>
+        <item><![CDATA[Tramadol]]></item>
+        <item><![CDATA[Tramquel SR]]></item>
+        <item><![CDATA[Trandate]]></item>
+        <item><![CDATA[Trandolapril]]></item>
+        <item><![CDATA[Tranexamic Acid]]></item>
+        <item><![CDATA[Transiderm]]></item>
+        <item><![CDATA[Transtec]]></item>
+        <item><![CDATA[Trasicor]]></item>
+        <item><![CDATA[Travatan]]></item>
+        <item><![CDATA[Travoprost]]></item>
+        <item><![CDATA[Trazodone]]></item>
+        <item><![CDATA[Tretinoin]]></item>
+        <item><![CDATA[Triamcinolone Acetonide]]></item>
+        <item><![CDATA[Triapin in combination with felodipine]]></item>
+        <item><![CDATA[Triapin Mite in combination with felodipine]]></item>
+        <item><![CDATA[Trifluoperazine]]></item>
+        <item><![CDATA[Trihexyphenidyl Hydrochloride]]></item>
+        <item><![CDATA[Trileptal]]></item>
+        <item><![CDATA[Trimethoprim]]></item>
+        <item><![CDATA[Trimipramine Maleate]]></item>
+        <item><![CDATA[Trimopan]]></item>
+        <item><![CDATA[Trimovate]]></item>
+        <item><![CDATA[Trimovate (with clobetasone and nystatin)]]></item>
+        <item><![CDATA[Trisequens]]></item>
+        <item><![CDATA[Tritace]]></item>
+        <item><![CDATA[Trospium]]></item>
+        <item><![CDATA[Trusopt]]></item>
+        <item><![CDATA[Tylex]]></item>
+        <item><![CDATA[Tylex in combination with codeine phosphate (co-codamol)]]></item>
+        <item><![CDATA[Tyvera]]></item>
+        <item><![CDATA[Udderly smooth]]></item>
+        <item><![CDATA[Ulipristal Acetate]]></item>
+        <item><![CDATA[Ultrabase]]></item>
+        <item><![CDATA[Uniphyllin Continus]]></item>
+        <item><![CDATA[Unisept]]></item>
+        <item><![CDATA[Univer]]></item>
+        <item><![CDATA[Urdox]]></item>
+        <item><![CDATA[Urea]]></item>
+        <item><![CDATA[Uriflex-S]]></item>
+        <item><![CDATA[Uriflex-SP]]></item>
+        <item><![CDATA[Urispas]]></item>
+        <item><![CDATA[Ursodeoxycholic Acid]]></item>
+        <item><![CDATA[Ursofalk]]></item>
+        <item><![CDATA[Ursogal]]></item>
+        <item><![CDATA[Utovlan]]></item>
+        <item><![CDATA[Utrogestan]]></item>
+        <item><![CDATA[Vagifem]]></item>
+        <item><![CDATA[Vallergan]]></item>
+        <item><![CDATA[Valni xl]]></item>
+        <item><![CDATA[Valoid]]></item>
+        <item><![CDATA[Valonorm (with atropine, peppermint oil, magnesium carbonate, aluminium hydroxide, calcium carbonate and magnesium trisilicate)]]></item>
+        <item><![CDATA[Valonorm (with peppermint oil, magnesium carbonate, aluminium hydroxide, calcium carbonate, magnesium trisilicate and sodium bicarbonate)]]></item>
+        <item><![CDATA[Valsartan]]></item>
+        <item><![CDATA[Vaniqa]]></item>
+        <item><![CDATA[Vantage]]></item>
+        <item><![CDATA[Vardenafil]]></item>
+        <item><![CDATA[Varenicline]]></item>
+        <item><![CDATA[Vascalpha]]></item>
+        <item><![CDATA[Vasogon]]></item>
+        <item><![CDATA[Vasran XL]]></item>
+        <item><![CDATA[Venlafaxine]]></item>
+        <item><![CDATA[Ventmax SR]]></item>
+        <item><![CDATA[Ventolin]]></item>
+        <item><![CDATA[Ventolin Accuhaler]]></item>
+        <item><![CDATA[Ventolin Evohaler]]></item>
+        <item><![CDATA[Ventolin Nebules]]></item>
+        <item><![CDATA[Ventolin Respirator solution]]></item>
+        <item><![CDATA[Verapamil Hydrochloride]]></item>
+        <item><![CDATA[Verapress MR]]></item>
+        <item><![CDATA[Vermox]]></item>
+        <item><![CDATA[Verrugon]]></item>
+        <item><![CDATA[Versatis]]></item>
+        <item><![CDATA[Versol]]></item>
+        <item><![CDATA[Vertab SR 2]]></item>
+        <item><![CDATA[Vesanoid]]></item>
+        <item><![CDATA[Vesicare]]></item>
+        <item><![CDATA[Viagra]]></item>
+        <item><![CDATA[Viazem xl]]></item>
+        <item><![CDATA[Vibramycin]]></item>
+        <item><![CDATA[Vibramycin-D]]></item>
+        <item><![CDATA[Vicks Cough Lozenges]]></item>
+        <item><![CDATA[Videne]]></item>
+        <item><![CDATA[Vigranon-B (with thiamine, riboflavin, nicotinamide and panthenol)]]></item>
+        <item><![CDATA[Virasorb]]></item>
+        <item><![CDATA[Viridal 10 Duo]]></item>
+        <item><![CDATA[Viridal 20 Duo]]></item>
+        <item><![CDATA[Viridal 40 Duo]]></item>
+        <item><![CDATA[Vivadex]]></item>
+        <item><![CDATA[Vividrin]]></item>
+        <item><![CDATA[Volmax]]></item>
+        <item><![CDATA[Volsaid Retard]]></item>
+        <item><![CDATA[Voltarol Active cutaneous spray]]></item>
+        <item><![CDATA[Voltarol Ophta]]></item>
+        <item><![CDATA[Voltarol pain-eze]]></item>
+        <item><![CDATA[Voltarol Rapid]]></item>
+        <item><![CDATA[Voltarol suppositories]]></item>
+        <item><![CDATA[Voltarol Tablets]]></item>
+        <item><![CDATA[Warfarin Sodium]]></item>
+        <item><![CDATA[Wartex]]></item>
+        <item><![CDATA[Waxol]]></item>
+        <item><![CDATA[White Soft Paraffin]]></item>
+        <item><![CDATA[White Soft Paraffin with Liquid Paraffin]]></item>
+        <item><![CDATA[Wind-eze]]></item>
+        <item><![CDATA[Wind-eze Gel Caps]]></item>
+        <item><![CDATA[with azelastine hydrochloride Dymista]]></item>
+        <item><![CDATA[with fluticasone propionate Dymista]]></item>
+        <item><![CDATA[Xalatan]]></item>
+        <item><![CDATA[Xatral]]></item>
+        <item><![CDATA[Xatral XL]]></item>
+        <item><![CDATA[Xenazine 25]]></item>
+        <item><![CDATA[Xenical]]></item>
+        <item><![CDATA[Xepin]]></item>
+        <item><![CDATA[Xylocaine]]></item>
+        <item><![CDATA[Xylometazoline Hydrochloride]]></item>
+        <item><![CDATA[Xyloproct]]></item>
+        <item><![CDATA[Xyzal]]></item>
+        <item><![CDATA[Yentreve]]></item>
+        <item><![CDATA[Zacin]]></item>
+        <item><![CDATA[Zamadol]]></item>
+        <item><![CDATA[Zamadol 24hr]]></item>
+        <item><![CDATA[Zamadol Melt]]></item>
+        <item><![CDATA[Zamadol SR]]></item>
+        <item><![CDATA[Zanamivir]]></item>
+        <item><![CDATA[Zanidip]]></item>
+        <item><![CDATA[Zantac]]></item>
+        <item><![CDATA[Zantac 75]]></item>
+        <item><![CDATA[Zantac 75 dissolve]]></item>
+        <item><![CDATA[Zantac 75 relief]]></item>
+        <item><![CDATA[Zantac 75 relief (dissolve)]]></item>
+        <item><![CDATA[Zapain]]></item>
+        <item><![CDATA[Zapain in combination with codeine phosphate (co-codamol)]]></item>
+        <item><![CDATA[Zelapar]]></item>
+        <item><![CDATA[Zemtard xl]]></item>
+        <item><![CDATA[Zeridame SR]]></item>
+        <item><![CDATA[Zerocream]]></item>
+        <item><![CDATA[Zestoretic]]></item>
+        <item><![CDATA[Zestril]]></item>
+        <item><![CDATA[Zidoval]]></item>
+        <item><![CDATA[Zimbacol XL]]></item>
+        <item><![CDATA[Zimovane]]></item>
+        <item><![CDATA[Zinc Sulphate]]></item>
+        <item><![CDATA[Zindaclin]]></item>
+        <item><![CDATA[Zineryt (with zinc)]]></item>
+        <item><![CDATA[Zirtek]]></item>
+        <item><![CDATA[Zispin soltab]]></item>
+        <item><![CDATA[Zithromax]]></item>
+        <item><![CDATA[Zocor]]></item>
+        <item><![CDATA[Zofran]]></item>
+        <item><![CDATA[Zofran flexi-amp]]></item>
+        <item><![CDATA[Zofran melt]]></item>
+        <item><![CDATA[Zoladex]]></item>
+        <item><![CDATA[Zoladex LA]]></item>
+        <item><![CDATA[Zolpidem]]></item>
+        <item><![CDATA[Zomorph]]></item>
+        <item><![CDATA[Zonegran]]></item>
+        <item><![CDATA[Zonisamide]]></item>
+        <item><![CDATA[Zopiclone]]></item>
+        <item><![CDATA[Zoton]]></item>
+        <item><![CDATA[Zovirax]]></item>
+        <item><![CDATA[Zuclopenthixol Dihydrochloride]]></item>
+        <item><![CDATA[Zumenon]]></item>
+        <item><![CDATA[Zyban]]></item>
+        <item><![CDATA[Zydol]]></item>
+        <item><![CDATA[Zydol SR]]></item>
+        <item><![CDATA[Zydol XL]]></item>
+        <item><![CDATA[Zyloric]]></item>
+        <item><![CDATA[Zyomet]]></item>
+        <item><![CDATA[Zypadhera]]></item>
+        <item><![CDATA[Zyprexa]]></item>
+        <item><![CDATA[Zyprexa Velotab]]></item>
+        <item><![CDATA[Zytiga]]></item>
+    </string-array>
+
+</resources>
